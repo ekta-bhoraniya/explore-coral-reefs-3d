@@ -74,7 +74,7 @@ export class Engine {
     r.outputColorSpace = THREE.SRGBColorSpace;
     r.toneMapping = THREE.ACESFilmicToneMapping;
     r.shadowMap.enabled = true;
-    r.shadowMap.type = THREE.PCFSoftShadowMap;
+    r.shadowMap.type = THREE.PCFShadowMap;
     r.setPixelRatio(Math.min(devicePixelRatio, 2));
     r.setSize(innerWidth, innerHeight, false);
 

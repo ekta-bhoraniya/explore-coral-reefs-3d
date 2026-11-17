@@ -28,5 +28,7 @@ function tuningSaver(): Plugin {
 
 export default defineConfig({
   plugins: [react(), tailwindcss(), tuningSaver()],
+  // GitHub Pages serves from /<repo>/; the deploy workflow sets BASE_PATH.
+  base: process.env.BASE_PATH ?? '/',
   build: { target: 'es2022', chunkSizeWarningLimit: 1200 },
 });
