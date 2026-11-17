@@ -4,6 +4,7 @@ import type { Engine } from './Engine';
 /** ?debug=1: every tunable value + FPS / draw calls / triangles. "Save" writes tuning.json. */
 export function mountDebug(engine: Engine) {
   const gui = new GUI({ title: 'Reef tuning' });
+  gui.domElement.style.top = '64px'; // keep the Skip / Back buttons top-right clickable
   const t = engine.tuning as unknown as Record<string, Record<string, unknown> | number>;
   const apply = () => engine.applyTuning();
   gui.add(engine.tuning, 'exposure', 0.3, 2.5, 0.01).onChange(apply);
