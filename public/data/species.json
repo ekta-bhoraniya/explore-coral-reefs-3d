@@ -1,0 +1,274 @@
+{
+ "version": 1,
+ "species": [
+  {
+   "id": "clownfish",
+   "commonName": "Ocellaris clownfish",
+   "scientificName": "Amphiprion ocellaris",
+   "shortName": "A clownfish",
+   "model": {
+    "src": "models/clownfish_lod1.glb",
+    "rotationY": 1.5707963
+   },
+   "sceneLength": 0.09,
+   "description": "Clownfish live inside sea anemones, whose stinging tentacles keep predators away. A coat of mucus protects the fish from the stings. Every clownfish is born male; the largest in a group becomes the female.",
+   "facts": {
+    "length": "Up to 11 cm",
+    "depth": "1–15 m",
+    "hides": "Among the tentacles of its host anemone"
+   },
+   "source": {
+    "label": "FishBase",
+    "url": "https://www.fishbase.se/summary/Amphiprion-ocellaris.html"
+   },
+   "behaviour": {
+    "type": "anemone",
+    "home": "anemone-start",
+    "speed": 0.25,
+    "maxSpeed": 0.6,
+    "shyDistance": 1.6,
+    "count": 3
+   },
+   "factStatus": "draft",
+   "photos": []
+  },
+  {
+   "id": "emperor-angelfish",
+   "commonName": "Emperor angelfish",
+   "scientificName": "Pomacanthus imperator",
+   "shortName": "An emperor angelfish",
+   "model": {
+    "src": "models/emperor-angelfish.glb",
+    "rotationY": 1.5707963
+   },
+   "sceneLength": 0.3,
+   "description": "Adults wear bold yellow and blue stripes, while young ones are dark blue with white rings, so different they were once thought to be another species. They pick at sponges and algae on coral heads and can make a loud knocking sound when startled.",
+   "facts": {
+    "length": "Up to 40 cm",
+    "depth": "1–100 m",
+    "hides": "Ledges and caves near rich coral"
+   },
+   "source": {
+    "label": "FishBase",
+    "url": "https://www.fishbase.se/summary/Pomacanthus-imperator.html"
+   },
+   "behaviour": {
+    "type": "circleCoral",
+    "home": "coral-head-1",
+    "radius": 1.6,
+    "speed": 0.3,
+    "maxSpeed": 0.9,
+    "shyDistance": 2.0
+   },
+   "factStatus": "draft",
+   "photos": []
+  },
+  {
+   "id": "sea-turtle",
+   "commonName": "Green sea turtle",
+   "scientificName": "Chelonia mydas",
+   "shortName": "A sea turtle",
+   "model": {
+    "src": "models/sea-turtle_lod1.glb",
+    "rotationY": 1.5707963
+   },
+   "sceneLength": 1.0,
+   "description": "Green turtles are named for the green fat under their shell, coloured by the seagrass and algae they eat. They can rest underwater for hours and return to the beach where they hatched to lay their own eggs.",
+   "facts": {
+    "length": "Shell up to about 1.2 m",
+    "weight": "Adults often 110–190 kg",
+    "depth": "Mostly shallow water, 0–40 m",
+    "hides": "Rests under ledges and on sand between coral"
+   },
+   "source": {
+    "label": "SeaLifeBase",
+    "url": "https://www.sealifebase.se/summary/Chelonia-mydas.html"
+   },
+   "behaviour": {
+    "type": "glide",
+    "radius": 11,
+    "speed": 0.3,
+    "maxSpeed": 0.6,
+    "shyDistance": 1.5,
+    "spawn": {
+     "x": -4,
+     "z": -4
+    }
+   },
+   "factStatus": "draft",
+   "photos": []
+  },
+  {
+   "id": "napoleon-wrasse",
+   "commonName": "Napoleon (humphead) wrasse",
+   "scientificName": "Cheilinus undulatus",
+   "shortName": "A Napoleon wrasse",
+   "model": {
+    "src": "models/napoleon-wrasse.glb",
+    "rotationY": 0,
+    "animated": true
+   },
+   "sceneLength": 1.4,
+   "description": "One of the largest reef fish, with a bump on its forehead that grows with age. It is one of the few animals that eats crown-of-thorns starfish, which damage coral. It is endangered because of overfishing.",
+   "facts": {
+    "length": "Up to 2.3 m",
+    "weight": "Up to 190 kg",
+    "depth": "1–100 m",
+    "hides": "Sleeps in caves and under ledges on the reef slope"
+   },
+   "source": {
+    "label": "FishBase",
+    "url": "https://www.fishbase.se/summary/Cheilinus-undulatus.html"
+   },
+   "behaviour": {
+    "type": "patrol",
+    "radius": 20,
+    "speed": 0.45,
+    "maxSpeed": 0.9,
+    "shyDistance": 0.9
+   },
+   "factStatus": "draft",
+   "photos": []
+  },
+  {
+   "id": "tuskfish",
+   "commonName": "Orange-dotted tuskfish",
+   "scientificName": "Choerodon anchorago",
+   "shortName": "A tuskfish",
+   "model": {
+    "src": "models/tuskfish.glb",
+    "rotationY": 1.5707963
+   },
+   "sceneLength": 0.35,
+   "description": "Tuskfish have strong, forward-pointing teeth that look like little tusks. They turn over rubble and sand to find crabs, clams and sea urchins, sometimes smashing shells on rocks.",
+   "facts": {
+    "length": "Up to 38 cm",
+    "depth": "1–25 m",
+    "hides": "Sand and rubble near seagrass and coral"
+   },
+   "source": {
+    "label": "FishBase",
+    "url": "https://www.fishbase.se/summary/Choerodon-anchorago.html"
+   },
+   "behaviour": {
+    "type": "forage",
+    "radius": 5,
+    "speed": 0.35,
+    "maxSpeed": 1.0,
+    "shyDistance": 2.2,
+    "spawn": {
+     "x": 1.5,
+     "z": -2
+    }
+   },
+   "factStatus": "draft",
+   "photos": []
+  },
+  {
+   "id": "octopus",
+   "commonName": "Day octopus",
+   "scientificName": "Octopus cyanea",
+   "shortName": "An octopus",
+   "model": {
+    "src": "models/octopus_lod1.glb",
+    "rotationY": 0
+   },
+   "sceneLength": 0.6,
+   "description": "Unlike most octopuses, this one hunts by day. It can change colour and skin texture in a fraction of a second to match the coral, and carries its den's entrance tidy by pushing out shells.",
+   "facts": {
+    "length": "Body about 16 cm; arms reach about 80 cm",
+    "depth": "0–150 m",
+    "hides": "A den in a rock crack, often marked by a pile of shells"
+   },
+   "source": {
+    "label": "SeaLifeBase",
+    "url": "https://www.sealifebase.se/summary/Octopus-cyanea.html"
+   },
+   "behaviour": {
+    "type": "den",
+    "home": "den-rock",
+    "speed": 0.05,
+    "maxSpeed": 0.1,
+    "shyDistance": 2.5
+   },
+   "factStatus": "draft",
+   "photos": []
+  },
+  {
+   "id": "whitetip-shark",
+   "commonName": "Whitetip reef shark",
+   "scientificName": "Triaenodon obesus",
+   "shortName": "A whitetip reef shark",
+   "model": {
+    "src": "models/whitetip-shark.glb",
+    "rotationY": 1.5707963,
+    "tint": "#9aa6ab",
+    "tintStrength": 0.35
+   },
+   "sceneLength": 1.5,
+   "description": "Unlike many sharks, the whitetip can lie still on the sand and pump water over its gills. It rests in caves by day and hunts fish in coral cracks at night. It is shy and rarely a danger to people.",
+   "facts": {
+    "length": "Up to 2.1 m, usually under 1.6 m",
+    "weight": "Up to about 18 kg",
+    "depth": "1–330 m, mostly 8–40 m",
+    "hides": "Rests on sand or in caves during the day"
+   },
+   "source": {
+    "label": "FishBase",
+    "url": "https://www.fishbase.se/summary/Triaenodon-obesus.html"
+   },
+   "behaviour": {
+    "type": "rest",
+    "radius": 12,
+    "speed": 0.4,
+    "maxSpeed": 0.8,
+    "shyDistance": 2.5,
+    "spawn": {
+     "x": 10,
+     "z": -12
+    }
+   },
+   "factStatus": "draft",
+   "photos": []
+  },
+  {
+   "id": "powder-blue-tang",
+   "commonName": "Powder blue tang",
+   "scientificName": "Acanthurus leucosternon",
+   "shortName": "A powder blue tang",
+   "model": {
+    "src": "proc:fish",
+    "procColors": [
+     "#4fa3e0",
+     "#1b1f2a",
+     "#f2d23a"
+    ]
+   },
+   "sceneLength": 0.2,
+   "description": "Powder blue tangs graze algae from rocks and coral, often in groups that move together across the reef. Like all surgeonfish, they have a sharp spine near the tail they can use in defence.",
+   "facts": {
+    "length": "Up to 54 cm, usually around 23 cm",
+    "depth": "0–25 m",
+    "hides": "Shallow reef flats and upper slopes"
+   },
+   "source": {
+    "label": "FishBase",
+    "url": "https://www.fishbase.se/summary/Acanthurus-leucosternon.html"
+   },
+   "behaviour": {
+    "type": "graze",
+    "radius": 6,
+    "speed": 0.35,
+    "maxSpeed": 1.0,
+    "shyDistance": 2.0,
+    "count": 5,
+    "spawn": {
+     "x": -6,
+     "z": 4
+    }
+   },
+   "factStatus": "draft",
+   "photos": []
+  }
+ ]
+}

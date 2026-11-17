@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Fraunces", Georgia, serif;
+  --font-sans: "Inter", system-ui, sans-serif;
+  --color-reef-ink: #06202b;
+  --color-reef-glow: #bff6ff;
+}
+
+html, body { margin: 0; background: #0b3a4a; color: #eaf7fb; font-family: var(--font-sans); }
+body.locked { overflow: hidden; }
+#reef-canvas { position: fixed; inset: 0; width: 100vw; height: 100vh; display: block; z-index: 0; touch-action: none; }
+#root { position: relative; z-index: 1; pointer-events: none; }
+#root .interactive, #root button, #root a, #root [role="dialog"] { pointer-events: auto; }
+
+.glass {
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  background: rgba(8, 40, 56, 0.55);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+}
+.focus-ring:focus-visible { outline: 2px solid var(--color-reef-glow); outline-offset: 2px; }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition-duration: 0.01ms !important; }
+}

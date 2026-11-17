@@ -1,0 +1,231 @@
+{
+ "version": 1,
+ "credits": [
+  {
+   "category": "3D models",
+   "title": "Clownfish (ClownFish.glb)",
+   "author": "Microsoft Remix 3D, via the IR/Ethereal Engine open asset kit",
+   "licence": "CC0 (per the kit curator; verify before public launch)",
+   "url": "https://github.com/ir-engine/ir-engine-assets-basic",
+   "files": [
+    "models/clownfish.glb",
+    "models/clownfish_lod1.glb",
+    "models/clownfish_lod2.glb"
+   ],
+   "notes": "Converted to metal-rough, compressed with meshopt"
+  },
+  {
+   "category": "3D models",
+   "title": "Angelfish (AngelFish3.glb)",
+   "author": "Microsoft Remix 3D, via the IR/Ethereal Engine open asset kit",
+   "licence": "CC0 (per the kit curator; verify before public launch)",
+   "url": "https://github.com/ir-engine/ir-engine-assets-basic",
+   "files": [
+    "models/emperor-angelfish.glb",
+    "models/emperor-angelfish_lod1.glb",
+    "models/emperor-angelfish_lod2.glb"
+   ],
+   "notes": "Converted to metal-rough, compressed with meshopt"
+  },
+  {
+   "category": "3D models",
+   "title": "Sea turtle (SeaTurtle.glb)",
+   "author": "Microsoft Remix 3D, via the IR/Ethereal Engine open asset kit",
+   "licence": "CC0 (per the kit curator; verify before public launch)",
+   "url": "https://github.com/ir-engine/ir-engine-assets-basic",
+   "files": [
+    "models/sea-turtle.glb",
+    "models/sea-turtle_lod1.glb",
+    "models/sea-turtle_lod2.glb"
+   ],
+   "notes": "Converted to metal-rough, compressed with meshopt"
+  },
+  {
+   "category": "3D models",
+   "title": "Napoleon wrasse (NapoleonWrassefish.glb)",
+   "author": "Microsoft Remix 3D, via the IR/Ethereal Engine open asset kit",
+   "licence": "CC0 (per the kit curator; verify before public launch)",
+   "url": "https://github.com/ir-engine/ir-engine-assets-basic",
+   "files": [
+    "models/napoleon-wrasse.glb",
+    "models/napoleon-wrasse_lod1.glb",
+    "models/napoleon-wrasse_lod2.glb"
+   ],
+   "notes": "Converted to metal-rough, compressed with meshopt"
+  },
+  {
+   "category": "3D models",
+   "title": "Orange-dotted tuskfish (Orangedottedtuskfish.glb)",
+   "author": "Microsoft Remix 3D, via the IR/Ethereal Engine open asset kit",
+   "licence": "CC0 (per the kit curator; verify before public launch)",
+   "url": "https://github.com/ir-engine/ir-engine-assets-basic",
+   "files": [
+    "models/tuskfish.glb",
+    "models/tuskfish_lod1.glb",
+    "models/tuskfish_lod2.glb"
+   ],
+   "notes": "Converted to metal-rough, compressed with meshopt"
+  },
+  {
+   "category": "3D models",
+   "title": "Octopus (Octopus.glb)",
+   "author": "Microsoft Remix 3D, via the IR/Ethereal Engine open asset kit",
+   "licence": "CC0 (per the kit curator; verify before public launch)",
+   "url": "https://github.com/ir-engine/ir-engine-assets-basic",
+   "files": [
+    "models/octopus.glb",
+    "models/octopus_lod1.glb",
+    "models/octopus_lod2.glb"
+   ],
+   "notes": "Converted to metal-rough, compressed with meshopt"
+  },
+  {
+   "category": "3D models",
+   "title": "White-tip shark (white-tip-shark.glb), re-tinted",
+   "author": "Microsoft Remix 3D, via the IR/Ethereal Engine open asset kit",
+   "licence": "CC0 (per the kit curator; verify before public launch)",
+   "url": "https://github.com/ir-engine/ir-engine-assets-basic",
+   "files": [
+    "models/whitetip-shark.glb",
+    "models/whitetip-shark_lod1.glb",
+    "models/whitetip-shark_lod2.glb"
+   ],
+   "notes": "Converted to metal-rough, compressed with meshopt"
+  },
+  {
+   "category": "3D models",
+   "title": "Branching coral (Coral02.glb)",
+   "author": "Microsoft Remix 3D, via the IR/Ethereal Engine open asset kit",
+   "licence": "CC0 (per the kit curator; verify before public launch)",
+   "url": "https://github.com/ir-engine/ir-engine-assets-basic",
+   "files": [
+    "models/coral02.glb",
+    "models/coral02_lod1.glb",
+    "models/coral02_lod2.glb"
+   ],
+   "notes": "Converted to metal-rough, compressed with meshopt"
+  },
+  {
+   "category": "3D models",
+   "title": "Generated coral, rocks and procedural stand-in fish",
+   "author": "Reef Snorkel (in-house, CoralGen.ts / ProcFish.ts)",
+   "licence": "Ours",
+   "url": "#",
+   "files": []
+  },
+  {
+   "category": "Textures",
+   "title": "Sand, ripple normal and caustics",
+   "author": "Reef Snorkel (generated in code)",
+   "licence": "Ours",
+   "url": "#",
+   "files": []
+  },
+  {
+   "category": "Sound",
+   "title": "Underwater ambience, breathing, water rush, bubbles, fin kick, splash, tick, chime",
+   "author": "Reef Snorkel (synthesized with ffmpeg; placeholders until Freesound picks are chosen)",
+   "licence": "Ours",
+   "url": "#",
+   "files": []
+  },
+  {
+   "category": "Fish facts",
+   "title": "FishBase species summaries",
+   "author": "Froese, R. and D. Pauly (eds.), FishBase",
+   "licence": "CC BY-NC 3.0",
+   "url": "https://www.fishbase.se"
+  },
+  {
+   "category": "Fish facts",
+   "title": "SeaLifeBase species summaries (turtle, octopus)",
+   "author": "Palomares, M.L.D. and D. Pauly (eds.), SeaLifeBase",
+   "licence": "CC BY-NC 3.0",
+   "url": "https://www.sealifebase.se"
+  },
+  {
+   "category": "Fish facts",
+   "title": "Guide to Reef Fishes of Andaman and Nicobar Islands (regional cross-check)",
+   "author": "Zoological Survey of India",
+   "licence": "Reference only",
+   "url": "https://zsi.gov.in"
+  },
+  {
+   "category": "Code libraries",
+   "title": "three.js",
+   "author": "three.js authors",
+   "licence": "MIT",
+   "url": "https://threejs.org"
+  },
+  {
+   "category": "Code libraries",
+   "title": "React",
+   "author": "Meta Platforms",
+   "licence": "MIT",
+   "url": "https://react.dev"
+  },
+  {
+   "category": "Code libraries",
+   "title": "GSAP + ScrollTrigger",
+   "author": "GreenSock",
+   "licence": "GSAP Standard License (free)",
+   "url": "https://gsap.com"
+  },
+  {
+   "category": "Code libraries",
+   "title": "Framer Motion",
+   "author": "Motion",
+   "licence": "MIT",
+   "url": "https://motion.dev"
+  },
+  {
+   "category": "Code libraries",
+   "title": "Howler.js",
+   "author": "James Simpson",
+   "licence": "MIT",
+   "url": "https://howlerjs.com"
+  },
+  {
+   "category": "Code libraries",
+   "title": "simplex-noise",
+   "author": "Jonas Wagner",
+   "licence": "MIT",
+   "url": "https://github.com/jwagner/simplex-noise.js"
+  },
+  {
+   "category": "Code libraries",
+   "title": "zod",
+   "author": "Colin McDonnell",
+   "licence": "MIT",
+   "url": "https://zod.dev"
+  },
+  {
+   "category": "Code libraries",
+   "title": "Zustand",
+   "author": "Poimandres",
+   "licence": "MIT",
+   "url": "https://github.com/pmndrs/zustand"
+  },
+  {
+   "category": "Code libraries",
+   "title": "Tailwind CSS",
+   "author": "Tailwind Labs",
+   "licence": "MIT",
+   "url": "https://tailwindcss.com"
+  },
+  {
+   "category": "Code libraries",
+   "title": "glTF Transform",
+   "author": "Don McCurdy",
+   "licence": "MIT",
+   "url": "https://gltf-transform.dev"
+  },
+  {
+   "category": "Code libraries",
+   "title": "lil-gui",
+   "author": "George Michael Brower",
+   "licence": "MIT",
+   "url": "https://lil-gui.georgealways.com"
+  }
+ ]
+}

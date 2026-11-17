@@ -1,0 +1,74 @@
+{
+ "exposure": 1.1,
+ "sun": {
+  "intensity": 2.2,
+  "elevationDeg": 60,
+  "azimuthDeg": 35,
+  "color": "#fff3dc"
+ },
+ "hemi": {
+  "intensity": 0.9,
+  "sky": "#8fd3ff",
+  "ground": "#2a5b6b"
+ },
+ "fog": {
+  "color": "#1d6a86",
+  "density": 0.055,
+  "edgeDensity": 0.16
+ },
+ "depthLoss": {
+  "redDistance": 12,
+  "greenDistance": 25,
+  "strength": 0.85
+ },
+ "surface": {
+  "rippleSpeed": 0.04,
+  "normalStrength": 0.6,
+  "windowDeg": 48,
+  "skyColor": "#d8f4ff",
+  "deepColor": "#0d3f55"
+ },
+ "caustics": {
+  "strength": 0.35,
+  "scale": 1.6,
+  "speed": 0.25
+ },
+ "shafts": {
+  "opacityMin": 0.05,
+  "opacityMax": 0.12
+ },
+ "particles": {
+  "size": 2.0,
+  "drift": 0.05
+ },
+ "bloom": {
+  "strength": 0.35,
+  "threshold": 0.85,
+  "radius": 0.5
+ },
+ "grade": {
+  "saturation": 1.12,
+  "contrast": 1.04,
+  "tint": "#bfe8ff",
+  "tintStrength": 0.08,
+  "vignette": 0.35,
+  "mask": 0.6,
+  "warmth": 0.06
+ },
+ "swim": {
+  "accel": 1.5,
+  "maxSpeed": 1.0,
+  "kick": 1.8,
+  "drag": 0.94,
+  "lookInertia": 0.92,
+  "lookSensitivity": 0.0032
+ },
+ "fish": {
+  "wiggleAmp": 0.06,
+  "wiggleFreq": 9
+ },
+ "sway": {
+  "strength": 0.08,
+  "speed": 0.9
+ }
+}

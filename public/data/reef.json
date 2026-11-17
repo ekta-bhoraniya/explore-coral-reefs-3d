@@ -1,0 +1,5832 @@
+{
+ "version": 1,
+ "start": {
+  "x": 0,
+  "z": 10.5,
+  "yaw": 0,
+  "pitch": -0.62
+ },
+ "bounds": {
+  "softRadius": 24,
+  "radius": 28
+ },
+ "placements": [
+  {
+   "asset": "gen:anemone",
+   "x": -0.9,
+   "z": 7.2,
+   "rotY": 2.86,
+   "scale": 1.25,
+   "seed": 308496,
+   "color": "#efe2c8",
+   "id": "anemone-start"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 2.6,
+   "z": 6.2,
+   "rotY": 3.89,
+   "scale": 1.1,
+   "seed": 152280,
+   "color": "#8a8a3a",
+   "id": "head-start"
+  },
+  {
+   "asset": "gen:table",
+   "x": -3.2,
+   "z": 5,
+   "rotY": 4.29,
+   "scale": 1,
+   "seed": 801408,
+   "color": "#c9a64e",
+   "id": "table-start"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -2.6,
+   "z": 1.4,
+   "rotY": 0.27,
+   "scale": 1.5,
+   "seed": 66587,
+   "color": "#8a6a3a",
+   "id": "coral-head-1"
+  },
+  {
+   "asset": "gen:table",
+   "x": -6.5,
+   "z": -9,
+   "rotY": 2.44,
+   "scale": 2.4,
+   "seed": 114502,
+   "color": "#b89a6a",
+   "id": "big-table"
+  },
+  {
+   "asset": "gen:anemone",
+   "x": -8.01,
+   "z": 0.22,
+   "rotY": 3.55,
+   "scale": 1.35,
+   "seed": 1731,
+   "color": "#efe2c8",
+   "id": "anemone-patch-1"
+  },
+  {
+   "asset": "gen:anemone",
+   "x": -8.17,
+   "z": 1.33,
+   "rotY": 5.92,
+   "scale": 1.37,
+   "seed": 765157,
+   "color": "#efe2c8",
+   "id": "anemone-patch-2"
+  },
+  {
+   "asset": "gen:anemone",
+   "x": -8.18,
+   "z": 0.24,
+   "rotY": 4.17,
+   "scale": 0.97,
+   "seed": 842450,
+   "color": "#efe2c8",
+   "id": "anemone-patch-3"
+  },
+  {
+   "asset": "gen:anemone",
+   "x": -6.24,
+   "z": -0.76,
+   "rotY": 2.11,
+   "scale": 0.82,
+   "seed": 773353,
+   "color": "#efe2c8",
+   "id": "anemone-patch-4"
+  },
+  {
+   "asset": "gen:anemone",
+   "x": -7.82,
+   "z": 1.9,
+   "rotY": 3.95,
+   "scale": 1.21,
+   "seed": 365102,
+   "color": "#efe2c8",
+   "id": "anemone-patch-5"
+  },
+  {
+   "asset": "gen:rock",
+   "x": 6,
+   "z": -3.5,
+   "rotY": 6.24,
+   "scale": 1.6,
+   "seed": 182313,
+   "color": "#5f6660",
+   "id": "den-rock"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -10.51,
+   "z": -14.18,
+   "rotY": 1.11,
+   "scale": 1.49,
+   "seed": 976264,
+   "color": "#7a7464",
+   "id": "boulder-pile"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -10.39,
+   "z": -12.7,
+   "rotY": 2.9,
+   "scale": 1.62,
+   "seed": 501883,
+   "color": "#5f6660"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -10.7,
+   "z": -13.27,
+   "rotY": 6.08,
+   "scale": 1.71,
+   "seed": 373406,
+   "color": "#6b6a5e"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -12.46,
+   "z": -14.76,
+   "rotY": 5.82,
+   "scale": 2.04,
+   "seed": 173645,
+   "color": "#6b6a5e"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -11.55,
+   "z": -13.23,
+   "rotY": 5.96,
+   "scale": 1.25,
+   "seed": 899060,
+   "color": "#6b6a5e"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -10.09,
+   "z": -13.14,
+   "rotY": 1.47,
+   "scale": 1.96,
+   "seed": 598176,
+   "color": "#7a7464"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -12.94,
+   "z": -12.27,
+   "rotY": 6.05,
+   "scale": 1.94,
+   "seed": 791957,
+   "color": "#6b6a5e"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 9,
+   "z": 8,
+   "rotY": 5.99,
+   "scale": 1.3,
+   "seed": 935886,
+   "color": "#c9a23a",
+   "id": "coral-head-2"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 1.2,
+   "z": 6.8,
+   "rotY": 2.9,
+   "scale": 1,
+   "seed": 948,
+   "color": "#f0965a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -2,
+   "z": 6.3,
+   "rotY": 5.2,
+   "scale": 1,
+   "seed": 915409,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 3.4,
+   "z": 4.5,
+   "rotY": 1.21,
+   "scale": 0.9,
+   "seed": 97375,
+   "color": "#a66bc4"
+  },
+  {
+   "asset": "gen:fan",
+   "x": -3.9,
+   "z": 3.2,
+   "rotY": 6.24,
+   "scale": 1,
+   "seed": 842167,
+   "color": "#d9483a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 4.2,
+   "z": 2.8,
+   "rotY": 2.02,
+   "scale": 1.1,
+   "seed": 711071,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -1.6,
+   "z": 4.6,
+   "rotY": 1.22,
+   "scale": 0.8,
+   "seed": 602192,
+   "color": "#f2b45a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 3.6,
+   "z": 7.8,
+   "rotY": 0.31,
+   "scale": 0.8,
+   "seed": 551836,
+   "color": "#8a8a3a"
+  },
+  {
+   "asset": "gen:fan",
+   "x": 4.8,
+   "z": 5.5,
+   "rotY": 3.94,
+   "scale": 0.8,
+   "seed": 605082,
+   "color": "#d9483a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -0.4,
+   "z": 8.4,
+   "rotY": 1.43,
+   "scale": 1.3,
+   "seed": 320487,
+   "color": "#e58aa6"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 1.9,
+   "z": 8.6,
+   "rotY": 5.66,
+   "scale": 1.4,
+   "seed": 365641,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 0.6,
+   "z": 5.6,
+   "rotY": 2.51,
+   "scale": 1.4,
+   "seed": 364324,
+   "color": "#f2b45a"
+  },
+  {
+   "asset": "gen:table",
+   "x": 1,
+   "z": 3.6,
+   "rotY": 5.26,
+   "scale": 1.6,
+   "seed": 639885,
+   "color": "#9fb38a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -1.3,
+   "z": 5.4,
+   "rotY": 2.29,
+   "scale": 1.5,
+   "seed": 249064,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 2.3,
+   "z": 5.2,
+   "rotY": 1.44,
+   "scale": 1.2,
+   "seed": 55122,
+   "color": "#e58aa6"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -2.4,
+   "z": 8.3,
+   "rotY": 6.02,
+   "scale": 1.2,
+   "seed": 138410,
+   "color": "#9c8f4a"
+  },
+  {
+   "asset": "gen:fan",
+   "x": -4.6,
+   "z": 6.4,
+   "rotY": 6.18,
+   "scale": 1.2,
+   "seed": 108889,
+   "color": "#d9483a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 22.52,
+   "z": 0.46,
+   "rotY": 0.84,
+   "scale": 2.07,
+   "seed": 336318,
+   "color": "#a66bc4"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -4.51,
+   "z": -22.58,
+   "rotY": 2.82,
+   "scale": 0.96,
+   "seed": 460298,
+   "color": "#8a8a3a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 11.54,
+   "z": -11.13,
+   "rotY": 5.88,
+   "scale": 1.68,
+   "seed": 886322,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -4.14,
+   "z": 1.21,
+   "rotY": 6.12,
+   "scale": 1.27,
+   "seed": 149169,
+   "color": "#e58aa6"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 10.6,
+   "z": -4.65,
+   "rotY": 2.38,
+   "scale": 0.95,
+   "seed": 81355,
+   "color": "#a66bc4"
+  },
+  {
+   "asset": "gen:table",
+   "x": -9.78,
+   "z": -0.49,
+   "rotY": 2.48,
+   "scale": 1.67,
+   "seed": 441248,
+   "color": "#b89a6a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 12.5,
+   "z": 11.71,
+   "rotY": 3.18,
+   "scale": 1.79,
+   "seed": 507826,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 5.33,
+   "z": 12.73,
+   "rotY": 4.67,
+   "scale": 1.25,
+   "seed": 883253,
+   "color": "#8a8a3a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -4.6,
+   "z": 20.53,
+   "rotY": 5.42,
+   "scale": 1.51,
+   "seed": 771787,
+   "color": "#c9a27e"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 3.59,
+   "z": -16.72,
+   "rotY": 3.47,
+   "scale": 1.01,
+   "seed": 110202,
+   "color": "#9c8f4a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 4.16,
+   "z": -6.99,
+   "rotY": 3.73,
+   "scale": 1.04,
+   "seed": 502650,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:rock",
+   "x": 19.11,
+   "z": -6.95,
+   "rotY": 2.35,
+   "scale": 1.65,
+   "seed": 382117,
+   "color": "#7a7464"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -18.53,
+   "z": 7.54,
+   "rotY": 3.39,
+   "scale": 0.98,
+   "seed": 510392,
+   "color": "#c9a27e"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 7.49,
+   "z": 9.04,
+   "rotY": 5.62,
+   "scale": 1.5,
+   "seed": 702512,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 10.93,
+   "z": 25.19,
+   "rotY": 2.73,
+   "scale": 1.35,
+   "seed": 54179,
+   "color": "#f2b45a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -6.75,
+   "z": -5.77,
+   "rotY": 3.4,
+   "scale": 1.12,
+   "seed": 416180,
+   "color": "#8a6a3a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -9.61,
+   "z": 7.64,
+   "rotY": 4.5,
+   "scale": 1.28,
+   "seed": 755312,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 4.69,
+   "z": -1.43,
+   "rotY": 1.94,
+   "scale": 1.73,
+   "seed": 53001,
+   "color": "#a66bc4"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -13.01,
+   "z": -8.13,
+   "rotY": 0.59,
+   "scale": 1.1,
+   "seed": 733981,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -2.29,
+   "z": 21.06,
+   "rotY": 5.61,
+   "scale": 1.28,
+   "seed": 574867,
+   "color": "#f0965a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -6.45,
+   "z": 1.27,
+   "rotY": 5.29,
+   "scale": 1.17,
+   "seed": 380506,
+   "color": "#8a8a3a"
+  },
+  {
+   "asset": "gen:fan",
+   "x": -7.3,
+   "z": 14.34,
+   "rotY": 5.91,
+   "scale": 1.2,
+   "seed": 968332,
+   "color": "#d9483a"
+  },
+  {
+   "asset": "gen:fan",
+   "x": -5.78,
+   "z": -4.52,
+   "rotY": 2.53,
+   "scale": 1.36,
+   "seed": 364760,
+   "color": "#d9483a"
+  },
+  {
+   "asset": "gen:rock",
+   "x": 7.55,
+   "z": 13.73,
+   "rotY": 3.34,
+   "scale": 1.7,
+   "seed": 150051,
+   "color": "#7a7464"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -4.46,
+   "z": 18.71,
+   "rotY": 4.65,
+   "scale": 1.58,
+   "seed": 437678,
+   "color": "#8a6a3a"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": 8.39,
+   "z": -5.93,
+   "rotY": 2.73,
+   "scale": 1.6,
+   "seed": 731406
+  },
+  {
+   "asset": "gen:brain",
+   "x": -2.58,
+   "z": 27.21,
+   "rotY": 5.72,
+   "scale": 1.15,
+   "seed": 539856,
+   "color": "#9c8f4a"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": -24.73,
+   "z": 5.4,
+   "rotY": 0.87,
+   "scale": 1.76,
+   "seed": 965481
+  },
+  {
+   "asset": "gen:fan",
+   "x": 10.07,
+   "z": -9.16,
+   "rotY": 1.42,
+   "scale": 1.76,
+   "seed": 43892,
+   "color": "#e8743a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -10.09,
+   "z": -5.13,
+   "rotY": 4.7,
+   "scale": 1.16,
+   "seed": 44688,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 13.5,
+   "z": -12.59,
+   "rotY": 6.05,
+   "scale": 0.97,
+   "seed": 722554,
+   "color": "#f0965a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 9.96,
+   "z": -18.06,
+   "rotY": 0.85,
+   "scale": 1.72,
+   "seed": 73596,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:fan",
+   "x": -1.51,
+   "z": 15.38,
+   "rotY": 4.13,
+   "scale": 1.76,
+   "seed": 353583,
+   "color": "#e8743a"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": -8.75,
+   "z": 11.36,
+   "rotY": 3.74,
+   "scale": 1.45,
+   "seed": 684111
+  },
+  {
+   "asset": "gen:table",
+   "x": 1.73,
+   "z": -9.1,
+   "rotY": 3.75,
+   "scale": 1.72,
+   "seed": 434126,
+   "color": "#9fb38a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -15.29,
+   "z": 12.83,
+   "rotY": 1.83,
+   "scale": 1.58,
+   "seed": 932045,
+   "color": "#8a8a3a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -8.09,
+   "z": 19.91,
+   "rotY": 0.09,
+   "scale": 1.08,
+   "seed": 32943,
+   "color": "#e58aa6"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -17.41,
+   "z": 12.89,
+   "rotY": 0.45,
+   "scale": 1.76,
+   "seed": 372925,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -10.16,
+   "z": 1.89,
+   "rotY": 1.49,
+   "scale": 1.76,
+   "seed": 360544,
+   "color": "#5f6660"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 11.71,
+   "z": -3.72,
+   "rotY": 0.34,
+   "scale": 1.1,
+   "seed": 978898,
+   "color": "#e58aa6"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -13.74,
+   "z": 12.64,
+   "rotY": 3.37,
+   "scale": 1.38,
+   "seed": 905772,
+   "color": "#a66bc4"
+  },
+  {
+   "asset": "gen:table",
+   "x": -4.89,
+   "z": 3.92,
+   "rotY": 0.17,
+   "scale": 1.64,
+   "seed": 686373,
+   "color": "#a88c5c"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 11.38,
+   "z": 6.34,
+   "rotY": 4.53,
+   "scale": 1.11,
+   "seed": 982335,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -16.3,
+   "z": -3.78,
+   "rotY": 5.75,
+   "scale": 1.27,
+   "seed": 490988,
+   "color": "#c9a27e"
+  },
+  {
+   "asset": "gen:table",
+   "x": -5.69,
+   "z": 7.46,
+   "rotY": 2.44,
+   "scale": 1.11,
+   "seed": 67769,
+   "color": "#a88c5c"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -1.65,
+   "z": 17.21,
+   "rotY": 4.32,
+   "scale": 0.97,
+   "seed": 519936,
+   "color": "#f2b45a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 20.53,
+   "z": -5.84,
+   "rotY": 3.63,
+   "scale": 1.75,
+   "seed": 3742,
+   "color": "#a66bc4"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -18.29,
+   "z": 0.64,
+   "rotY": 3.46,
+   "scale": 1.45,
+   "seed": 417539,
+   "color": "#8a6a3a"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": -15.58,
+   "z": -15.49,
+   "rotY": 4.75,
+   "scale": 1.49,
+   "seed": 406209
+  },
+  {
+   "asset": "gen:branching",
+   "x": -20.82,
+   "z": 7.77,
+   "rotY": 3.98,
+   "scale": 1.46,
+   "seed": 574299,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -17.64,
+   "z": 10.59,
+   "rotY": 2.76,
+   "scale": 1.36,
+   "seed": 435552,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:fan",
+   "x": -12.01,
+   "z": 14.57,
+   "rotY": 2.06,
+   "scale": 1.39,
+   "seed": 361486,
+   "color": "#c43a52"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 11.34,
+   "z": -16.99,
+   "rotY": 1.09,
+   "scale": 1.57,
+   "seed": 933584,
+   "color": "#9c8f4a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -14.74,
+   "z": -14.11,
+   "rotY": 2.23,
+   "scale": 1.61,
+   "seed": 732587,
+   "color": "#e8a0c0"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 8.78,
+   "z": -15.57,
+   "rotY": 4.99,
+   "scale": 1.18,
+   "seed": 939191,
+   "color": "#c9a27e"
+  },
+  {
+   "asset": "gen:table",
+   "x": -7.07,
+   "z": 6.37,
+   "rotY": 1.3,
+   "scale": 1.65,
+   "seed": 949228,
+   "color": "#a88c5c"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 8.04,
+   "z": 3.89,
+   "rotY": 5.87,
+   "scale": 1.65,
+   "seed": 699711,
+   "color": "#f0965a"
+  },
+  {
+   "asset": "gen:table",
+   "x": -6.97,
+   "z": -15.58,
+   "rotY": 1.24,
+   "scale": 1.52,
+   "seed": 895697,
+   "color": "#a88c5c"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 24.2,
+   "z": 9.25,
+   "rotY": 0.94,
+   "scale": 1.59,
+   "seed": 290316,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -9.35,
+   "z": -2.6,
+   "rotY": 5.26,
+   "scale": 1.44,
+   "seed": 463246,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -22.35,
+   "z": -2.35,
+   "rotY": 0.37,
+   "scale": 1.34,
+   "seed": 661489,
+   "color": "#f0965a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 3.76,
+   "z": -9.14,
+   "rotY": 4.52,
+   "scale": 1.69,
+   "seed": 876596,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 20.01,
+   "z": -12.48,
+   "rotY": 0.92,
+   "scale": 1.59,
+   "seed": 903656,
+   "color": "#e58aa6"
+  },
+  {
+   "asset": "gen:table",
+   "x": -20.13,
+   "z": 14.51,
+   "rotY": 5,
+   "scale": 1.16,
+   "seed": 680341,
+   "color": "#9fb38a"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": 13.44,
+   "z": 21.71,
+   "rotY": 0.66,
+   "scale": 1.01,
+   "seed": 595877
+  },
+  {
+   "asset": "gen:brain",
+   "x": -15.78,
+   "z": 22.43,
+   "rotY": 1.55,
+   "scale": 0.94,
+   "seed": 634446,
+   "color": "#9c8f4a"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": 15.83,
+   "z": -15.85,
+   "rotY": 1.46,
+   "scale": 1.05,
+   "seed": 906989
+  },
+  {
+   "asset": "gen:rock",
+   "x": -3.67,
+   "z": 15.49,
+   "rotY": 4.67,
+   "scale": 0.98,
+   "seed": 660068,
+   "color": "#5f6660"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -23,
+   "z": 11.33,
+   "rotY": 0.31,
+   "scale": 1.17,
+   "seed": 961279,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -13.64,
+   "z": 17.98,
+   "rotY": 1.31,
+   "scale": 1.22,
+   "seed": 480947,
+   "color": "#f0965a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -8.13,
+   "z": -4.21,
+   "rotY": 2.05,
+   "scale": 1.79,
+   "seed": 878195,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 15.92,
+   "z": 10.55,
+   "rotY": 0.35,
+   "scale": 1.42,
+   "seed": 281132,
+   "color": "#a66bc4"
+  },
+  {
+   "asset": "gen:rock",
+   "x": 0.74,
+   "z": 13.38,
+   "rotY": 4.83,
+   "scale": 1.18,
+   "seed": 317943,
+   "color": "#7a7464"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -14.18,
+   "z": 21.75,
+   "rotY": 4.53,
+   "scale": 1.16,
+   "seed": 216596,
+   "color": "#c9a23a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 4.1,
+   "z": 4.91,
+   "rotY": 1.5,
+   "scale": 1.89,
+   "seed": 681483,
+   "color": "#c9a23a"
+  },
+  {
+   "asset": "gen:fan",
+   "x": 7.07,
+   "z": -12.85,
+   "rotY": 3.65,
+   "scale": 1.58,
+   "seed": 997043,
+   "color": "#e8743a"
+  },
+  {
+   "asset": "gen:table",
+   "x": -10.69,
+   "z": 13.39,
+   "rotY": 0.34,
+   "scale": 1.22,
+   "seed": 607673,
+   "color": "#9fb38a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 20.71,
+   "z": -10.02,
+   "rotY": 4.74,
+   "scale": 2.28,
+   "seed": 884717,
+   "color": "#c9a23a"
+  },
+  {
+   "asset": "gen:fan",
+   "x": -7.04,
+   "z": 16.83,
+   "rotY": 1.66,
+   "scale": 1.03,
+   "seed": 458202,
+   "color": "#d9483a"
+  },
+  {
+   "asset": "gen:fan",
+   "x": -3.37,
+   "z": -7.66,
+   "rotY": 0,
+   "scale": 1.32,
+   "seed": 23359,
+   "color": "#d9483a"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": -19.55,
+   "z": 2.3,
+   "rotY": 3.61,
+   "scale": 1.38,
+   "seed": 741155
+  },
+  {
+   "asset": "gen:brain",
+   "x": 10.23,
+   "z": 11.25,
+   "rotY": 5.98,
+   "scale": 1.24,
+   "seed": 52620,
+   "color": "#8a6a3a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -7.99,
+   "z": -9.18,
+   "rotY": 0.87,
+   "scale": 1.79,
+   "seed": 900566,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -2.85,
+   "z": 23.27,
+   "rotY": 2.18,
+   "scale": 1.29,
+   "seed": 160573,
+   "color": "#8a8a3a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 0.19,
+   "z": 12.73,
+   "rotY": 0.22,
+   "scale": 1.32,
+   "seed": 879399,
+   "color": "#8a8a3a"
+  },
+  {
+   "asset": "gen:table",
+   "x": -21.06,
+   "z": -14.03,
+   "rotY": 1.98,
+   "scale": 1.71,
+   "seed": 592817,
+   "color": "#9fb38a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 20.49,
+   "z": 7.6,
+   "rotY": 1.61,
+   "scale": 2.24,
+   "seed": 658831,
+   "color": "#c9a23a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -12.75,
+   "z": 3.06,
+   "rotY": 4.35,
+   "scale": 1.36,
+   "seed": 80646,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -23.96,
+   "z": 3.04,
+   "rotY": 6.19,
+   "scale": 1.48,
+   "seed": 80022,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 18.18,
+   "z": -5.89,
+   "rotY": 4.82,
+   "scale": 1.58,
+   "seed": 890657,
+   "color": "#e58aa6"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -15.64,
+   "z": 14.32,
+   "rotY": 0.87,
+   "scale": 1.17,
+   "seed": 734187,
+   "color": "#a66bc4"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 1.86,
+   "z": 21.27,
+   "rotY": 2.93,
+   "scale": 1.22,
+   "seed": 467420,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -9.42,
+   "z": 5.15,
+   "rotY": 2.75,
+   "scale": 1.75,
+   "seed": 95251,
+   "color": "#e8a0c0"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -20.12,
+   "z": 15.67,
+   "rotY": 0.02,
+   "scale": 1.04,
+   "seed": 698155,
+   "color": "#e8a0c0"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": 21.05,
+   "z": 18.03,
+   "rotY": 2.47,
+   "scale": 1.52,
+   "seed": 923044
+  },
+  {
+   "asset": "gen:branching",
+   "x": -12.2,
+   "z": -9.34,
+   "rotY": 0.57,
+   "scale": 0.97,
+   "seed": 218271,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -4.67,
+   "z": 15.51,
+   "rotY": 4.76,
+   "scale": 1.75,
+   "seed": 628555,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -4.9,
+   "z": 23.8,
+   "rotY": 5.16,
+   "scale": 1.73,
+   "seed": 393177,
+   "color": "#8a6a3a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 14.93,
+   "z": -8.87,
+   "rotY": 1.94,
+   "scale": 1.38,
+   "seed": 214621,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -8.89,
+   "z": 17.8,
+   "rotY": 1.43,
+   "scale": 1.03,
+   "seed": 33499,
+   "color": "#5f6660"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": -23.21,
+   "z": 12.62,
+   "rotY": 4.22,
+   "scale": 1.12,
+   "seed": 282817
+  },
+  {
+   "asset": "gen:soft",
+   "x": 16.17,
+   "z": 12.79,
+   "rotY": 4.74,
+   "scale": 1.28,
+   "seed": 198151,
+   "color": "#f2b45a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 13.41,
+   "z": -10.92,
+   "rotY": 1.32,
+   "scale": 1.47,
+   "seed": 904166,
+   "color": "#c9a23a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -3.97,
+   "z": 22.09,
+   "rotY": 3.79,
+   "scale": 1.76,
+   "seed": 166959,
+   "color": "#e58aa6"
+  },
+  {
+   "asset": "gen:rock",
+   "x": 7.05,
+   "z": 17.84,
+   "rotY": 5.58,
+   "scale": 1.2,
+   "seed": 338080,
+   "color": "#6b6a5e"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -20.34,
+   "z": 0.33,
+   "rotY": 3.76,
+   "scale": 1.06,
+   "seed": 748215,
+   "color": "#a66bc4"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -12.67,
+   "z": 4.5,
+   "rotY": 0.64,
+   "scale": 1.44,
+   "seed": 702195,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 6.29,
+   "z": 7.09,
+   "rotY": 5.1,
+   "scale": 1.84,
+   "seed": 596542,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 20.07,
+   "z": 1.29,
+   "rotY": 0.8,
+   "scale": 1.62,
+   "seed": 844139,
+   "color": "#a66bc4"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -5.87,
+   "z": 3.25,
+   "rotY": 4.46,
+   "scale": 1.41,
+   "seed": 994338,
+   "color": "#e58aa6"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 25.06,
+   "z": -6.03,
+   "rotY": 1.77,
+   "scale": 2.27,
+   "seed": 757671,
+   "color": "#c9a23a"
+  },
+  {
+   "asset": "gen:table",
+   "x": -1.69,
+   "z": 18.25,
+   "rotY": 0.22,
+   "scale": 1.35,
+   "seed": 941855,
+   "color": "#9fb38a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 20.41,
+   "z": -0.96,
+   "rotY": 1.03,
+   "scale": 1.83,
+   "seed": 8516,
+   "color": "#f0965a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 7.33,
+   "z": -6.31,
+   "rotY": 4.76,
+   "scale": 0.99,
+   "seed": 554628,
+   "color": "#8a8a3a"
+  },
+  {
+   "asset": "gen:fan",
+   "x": 4.54,
+   "z": 18.93,
+   "rotY": 1.45,
+   "scale": 1.77,
+   "seed": 245537,
+   "color": "#c43a52"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -22.51,
+   "z": 17.26,
+   "rotY": 0.13,
+   "scale": 1.16,
+   "seed": 514193,
+   "color": "#9c8f4a"
+  },
+  {
+   "asset": "gen:rock",
+   "x": 16.13,
+   "z": 26.92,
+   "rotY": 4.42,
+   "scale": 0.97,
+   "seed": 509381,
+   "color": "#5f6660"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -7.1,
+   "z": -21.01,
+   "rotY": 0.38,
+   "scale": 1.63,
+   "seed": 798038,
+   "color": "#8a8a3a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -5.3,
+   "z": 6,
+   "rotY": 4.3,
+   "scale": 1.72,
+   "seed": 906044,
+   "color": "#c9a23a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 6.97,
+   "z": 7.77,
+   "rotY": 5.17,
+   "scale": 1.25,
+   "seed": 449852,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:table",
+   "x": 22.05,
+   "z": 1.71,
+   "rotY": 2.78,
+   "scale": 1.82,
+   "seed": 992905,
+   "color": "#b89a6a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -5.72,
+   "z": -13.45,
+   "rotY": 0.35,
+   "scale": 1.3,
+   "seed": 286147,
+   "color": "#c9a23a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 11.92,
+   "z": -15.48,
+   "rotY": 3.8,
+   "scale": 1.14,
+   "seed": 16897,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -11.41,
+   "z": -20.65,
+   "rotY": 5.28,
+   "scale": 1.06,
+   "seed": 381570,
+   "color": "#9c8f4a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -10.33,
+   "z": 14.79,
+   "rotY": 4.72,
+   "scale": 1.07,
+   "seed": 497956,
+   "color": "#f2b45a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -9.42,
+   "z": 1.2,
+   "rotY": 4.14,
+   "scale": 1.41,
+   "seed": 552301,
+   "color": "#c9a27e"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -1.01,
+   "z": -1.29,
+   "rotY": 3.27,
+   "scale": 1.29,
+   "seed": 541549,
+   "color": "#6b6a5e"
+  },
+  {
+   "asset": "gen:fan",
+   "x": -6.31,
+   "z": -16.76,
+   "rotY": 1.92,
+   "scale": 0.95,
+   "seed": 448664,
+   "color": "#d9483a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -16.85,
+   "z": -8.44,
+   "rotY": 4.06,
+   "scale": 0.94,
+   "seed": 224237,
+   "color": "#e58aa6"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -11.26,
+   "z": 5.15,
+   "rotY": 0.39,
+   "scale": 1.61,
+   "seed": 395775,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:table",
+   "x": -11,
+   "z": -7.85,
+   "rotY": 0.26,
+   "scale": 1.22,
+   "seed": 787968,
+   "color": "#c9a64e"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 24.22,
+   "z": 1.1,
+   "rotY": 3.66,
+   "scale": 2.04,
+   "seed": 30793,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -28.52,
+   "z": 7.12,
+   "rotY": 0.22,
+   "scale": 1.65,
+   "seed": 579517,
+   "color": "#e8a0c0"
+  },
+  {
+   "asset": "gen:rock",
+   "x": 16.77,
+   "z": 14.53,
+   "rotY": 6.18,
+   "scale": 1.68,
+   "seed": 884484,
+   "color": "#6b6a5e"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": 12.72,
+   "z": 4.12,
+   "rotY": 2.26,
+   "scale": 1.74,
+   "seed": 643118
+  },
+  {
+   "asset": "gen:rock",
+   "x": 5.7,
+   "z": -5.45,
+   "rotY": 3.68,
+   "scale": 0.94,
+   "seed": 507543,
+   "color": "#5f6660"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -0.67,
+   "z": 2.38,
+   "rotY": 1.04,
+   "scale": 1.99,
+   "seed": 478076,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -14.6,
+   "z": -6,
+   "rotY": 3.9,
+   "scale": 1.35,
+   "seed": 64723,
+   "color": "#e58aa6"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -15.5,
+   "z": -1.2,
+   "rotY": 5.61,
+   "scale": 1.09,
+   "seed": 465648,
+   "color": "#9c8f4a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -17.74,
+   "z": 18.61,
+   "rotY": 3.5,
+   "scale": 1.24,
+   "seed": 137454,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "gen:fan",
+   "x": 9.57,
+   "z": -4.76,
+   "rotY": 2.11,
+   "scale": 1.64,
+   "seed": 593401,
+   "color": "#c43a52"
+  },
+  {
+   "asset": "gen:table",
+   "x": 5.2,
+   "z": 20.36,
+   "rotY": 0.43,
+   "scale": 1.3,
+   "seed": 164612,
+   "color": "#b89a6a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -5.65,
+   "z": -14.89,
+   "rotY": 3.57,
+   "scale": 1.68,
+   "seed": 794264,
+   "color": "#8a6a3a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -4.35,
+   "z": -5.24,
+   "rotY": 0.44,
+   "scale": 1.54,
+   "seed": 71102,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -4.1,
+   "z": -3.54,
+   "rotY": 1.01,
+   "scale": 1.36,
+   "seed": 143892,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 12.38,
+   "z": 29.16,
+   "rotY": 3.92,
+   "scale": 1.19,
+   "seed": 86100,
+   "color": "#f2b45a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -3.6,
+   "z": 10.93,
+   "rotY": 1.29,
+   "scale": 1.66,
+   "seed": 24291,
+   "color": "#c9a27e"
+  },
+  {
+   "asset": "gen:table",
+   "x": -8.84,
+   "z": 19.18,
+   "rotY": 2.57,
+   "scale": 1.47,
+   "seed": 347384,
+   "color": "#c9a64e"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 12.37,
+   "z": 26,
+   "rotY": 3.25,
+   "scale": 1.71,
+   "seed": 103328,
+   "color": "#9c8f4a"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -6.68,
+   "z": 22.38,
+   "rotY": 4.26,
+   "scale": 1.49,
+   "seed": 162850,
+   "color": "#5f6660"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 0.64,
+   "z": 28.82,
+   "rotY": 2.44,
+   "scale": 1.52,
+   "seed": 255188,
+   "color": "#c9a27e"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 8.91,
+   "z": -8.05,
+   "rotY": 0.92,
+   "scale": 1.5,
+   "seed": 594383,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:fan",
+   "x": 10.92,
+   "z": -15.87,
+   "rotY": 0.56,
+   "scale": 1.36,
+   "seed": 705458,
+   "color": "#c43a52"
+  },
+  {
+   "asset": "gen:table",
+   "x": -10.58,
+   "z": 25.39,
+   "rotY": 4.62,
+   "scale": 1.11,
+   "seed": 804971,
+   "color": "#a88c5c"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -1.55,
+   "z": 13.76,
+   "rotY": 0.79,
+   "scale": 1.74,
+   "seed": 546098,
+   "color": "#8a8a3a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -18.2,
+   "z": 4.78,
+   "rotY": 0.94,
+   "scale": 1.21,
+   "seed": 647842,
+   "color": "#e58aa6"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 22.76,
+   "z": 5.89,
+   "rotY": 4.24,
+   "scale": 2.02,
+   "seed": 416255,
+   "color": "#8a8a3a"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": -21.41,
+   "z": 9.05,
+   "rotY": 2.11,
+   "scale": 1.33,
+   "seed": 838836
+  },
+  {
+   "asset": "gen:branching",
+   "x": -14.71,
+   "z": 17.52,
+   "rotY": 0.81,
+   "scale": 1.78,
+   "seed": 458099,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -2.94,
+   "z": 12.75,
+   "rotY": 0.73,
+   "scale": 1.22,
+   "seed": 149892,
+   "color": "#e8a0c0"
+  },
+  {
+   "asset": "gen:fan",
+   "x": 20.57,
+   "z": 23.05,
+   "rotY": 0.67,
+   "scale": 2.1,
+   "seed": 473450,
+   "color": "#c43a52"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 19.37,
+   "z": 21.38,
+   "rotY": 0.9,
+   "scale": 2.2,
+   "seed": 454827,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:fan",
+   "x": 9.28,
+   "z": -10.92,
+   "rotY": 0.84,
+   "scale": 1.2,
+   "seed": 519322,
+   "color": "#e8743a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 12.72,
+   "z": -9.38,
+   "rotY": 0.21,
+   "scale": 1.41,
+   "seed": 110127,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 0.07,
+   "z": 7.56,
+   "rotY": 5.11,
+   "scale": 1.95,
+   "seed": 974923,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 12.22,
+   "z": 17.08,
+   "rotY": 4.07,
+   "scale": 1.64,
+   "seed": 599821,
+   "color": "#c9a27e"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -7.03,
+   "z": -14.07,
+   "rotY": 5.84,
+   "scale": 1.57,
+   "seed": 468305,
+   "color": "#c9a23a"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -6.55,
+   "z": -3.31,
+   "rotY": 4.44,
+   "scale": 1.88,
+   "seed": 708725,
+   "color": "#6b6a5e"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 10.26,
+   "z": 15.48,
+   "rotY": 1.04,
+   "scale": 1.14,
+   "seed": 620032,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:fan",
+   "x": -25.39,
+   "z": -4.11,
+   "rotY": 0.38,
+   "scale": 1,
+   "seed": 851767,
+   "color": "#d9483a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -14.35,
+   "z": -2.41,
+   "rotY": 1.54,
+   "scale": 1.23,
+   "seed": 117885,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 20.8,
+   "z": 16.34,
+   "rotY": 4.26,
+   "scale": 2,
+   "seed": 338357,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 5.27,
+   "z": 11.25,
+   "rotY": 0,
+   "scale": 1.38,
+   "seed": 724664,
+   "color": "#f2b45a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -4.21,
+   "z": -12.81,
+   "rotY": 4.01,
+   "scale": 1.58,
+   "seed": 412562,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": 10.24,
+   "z": 20.36,
+   "rotY": 3.47,
+   "scale": 1.67,
+   "seed": 368918
+  },
+  {
+   "asset": "gen:soft",
+   "x": -2.59,
+   "z": 16.69,
+   "rotY": 1.66,
+   "scale": 1.75,
+   "seed": 951407,
+   "color": "#a66bc4"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -14.02,
+   "z": 4.81,
+   "rotY": 3.52,
+   "scale": 1.57,
+   "seed": 975106,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:table",
+   "x": 8.39,
+   "z": 15.75,
+   "rotY": 6.08,
+   "scale": 1.71,
+   "seed": 115974,
+   "color": "#a88c5c"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 16.35,
+   "z": -13.29,
+   "rotY": 1.66,
+   "scale": 1.32,
+   "seed": 216188,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:rock",
+   "x": 11.45,
+   "z": 23.13,
+   "rotY": 1.72,
+   "scale": 1.77,
+   "seed": 212508,
+   "color": "#5f6660"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": 13.83,
+   "z": -15.67,
+   "rotY": 5.16,
+   "scale": 0.94,
+   "seed": 294947
+  },
+  {
+   "asset": "gen:soft",
+   "x": 7.4,
+   "z": 20.45,
+   "rotY": 5.95,
+   "scale": 1.39,
+   "seed": 198641,
+   "color": "#f2b45a"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": 9.51,
+   "z": -3.63,
+   "rotY": 4.17,
+   "scale": 1.66,
+   "seed": 914751
+  },
+  {
+   "asset": "gen:soft",
+   "x": 26.3,
+   "z": 12.22,
+   "rotY": 2.39,
+   "scale": 1.61,
+   "seed": 502642,
+   "color": "#f2b45a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 5.75,
+   "z": 29.63,
+   "rotY": 4.62,
+   "scale": 1.08,
+   "seed": 935282,
+   "color": "#c9a27e"
+  },
+  {
+   "asset": "gen:rock",
+   "x": 14.72,
+   "z": 3.53,
+   "rotY": 1.17,
+   "scale": 1.1,
+   "seed": 515681,
+   "color": "#5f6660"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 4.52,
+   "z": 10.93,
+   "rotY": 0.8,
+   "scale": 1.71,
+   "seed": 640965,
+   "color": "#f0965a"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -13.26,
+   "z": -7.13,
+   "rotY": 1.19,
+   "scale": 1.07,
+   "seed": 635018,
+   "color": "#6b6a5e"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": 11.14,
+   "z": 19.88,
+   "rotY": 5.39,
+   "scale": 1.11,
+   "seed": 657062
+  },
+  {
+   "asset": "gen:brain",
+   "x": -12.51,
+   "z": -0.45,
+   "rotY": 4.05,
+   "scale": 1.47,
+   "seed": 95981,
+   "color": "#c9a23a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -13.83,
+   "z": 9.14,
+   "rotY": 0.05,
+   "scale": 1.24,
+   "seed": 728147,
+   "color": "#8a8a3a"
+  },
+  {
+   "asset": "gen:table",
+   "x": 13.45,
+   "z": 5.43,
+   "rotY": 3.56,
+   "scale": 1.18,
+   "seed": 116672,
+   "color": "#c9a64e"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 12.5,
+   "z": 7.23,
+   "rotY": 3.67,
+   "scale": 1.03,
+   "seed": 472694,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -18.89,
+   "z": 6.23,
+   "rotY": 2.27,
+   "scale": 1.04,
+   "seed": 77316,
+   "color": "#f0965a"
+  },
+  {
+   "asset": "gen:rock",
+   "x": 0.22,
+   "z": 26.82,
+   "rotY": 5.82,
+   "scale": 1.48,
+   "seed": 773906,
+   "color": "#6b6a5e"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -0.57,
+   "z": 14.57,
+   "rotY": 6.24,
+   "scale": 0.9,
+   "seed": 538783,
+   "color": "#c9a27e"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 6.14,
+   "z": 26.43,
+   "rotY": 6,
+   "scale": 1.48,
+   "seed": 683476,
+   "color": "#a66bc4"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 12.76,
+   "z": 13.99,
+   "rotY": 3.54,
+   "scale": 1.6,
+   "seed": 958435,
+   "color": "#c9a27e"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 20,
+   "z": 15.5,
+   "rotY": 4.51,
+   "scale": 2.09,
+   "seed": 72571,
+   "color": "#c9a27e"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 7.69,
+   "z": 16.64,
+   "rotY": 1.37,
+   "scale": 1.79,
+   "seed": 42837,
+   "color": "#8a6a3a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 3.84,
+   "z": 28.74,
+   "rotY": 4.57,
+   "scale": 0.92,
+   "seed": 152547,
+   "color": "#f2b45a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 10.38,
+   "z": 13.84,
+   "rotY": 5.48,
+   "scale": 1.47,
+   "seed": 544444,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:table",
+   "x": -7.87,
+   "z": 5.77,
+   "rotY": 4.51,
+   "scale": 1.69,
+   "seed": 694207,
+   "color": "#9fb38a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 14.92,
+   "z": 16.19,
+   "rotY": 0.4,
+   "scale": 1.65,
+   "seed": 908741,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -23.58,
+   "z": 19.99,
+   "rotY": 3.44,
+   "scale": 1.38,
+   "seed": 629721,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 8.13,
+   "z": 0.51,
+   "rotY": 1.08,
+   "scale": 1.99,
+   "seed": 832573,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "gen:table",
+   "x": -11.09,
+   "z": 27.25,
+   "rotY": 3.66,
+   "scale": 1.09,
+   "seed": 438766,
+   "color": "#c9a64e"
+  },
+  {
+   "asset": "gen:table",
+   "x": -2.11,
+   "z": -2.76,
+   "rotY": 0.12,
+   "scale": 1.15,
+   "seed": 389021,
+   "color": "#a88c5c"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 24.94,
+   "z": 18.64,
+   "rotY": 4.02,
+   "scale": 1.98,
+   "seed": 518603,
+   "color": "#f0965a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 13.56,
+   "z": -4.36,
+   "rotY": 6.21,
+   "scale": 1.45,
+   "seed": 33698,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:rock",
+   "x": 10,
+   "z": 29.85,
+   "rotY": 5.93,
+   "scale": 1.05,
+   "seed": 345212,
+   "color": "#6b6a5e"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 18.75,
+   "z": 18.21,
+   "rotY": 1.88,
+   "scale": 1.4,
+   "seed": 856747,
+   "color": "#f2b45a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -13.87,
+   "z": 3.41,
+   "rotY": 6.23,
+   "scale": 1.11,
+   "seed": 780389,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -13.49,
+   "z": 11.09,
+   "rotY": 0.21,
+   "scale": 1.08,
+   "seed": 47065,
+   "color": "#c9a27e"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -27.24,
+   "z": 1.22,
+   "rotY": 6.1,
+   "scale": 1.63,
+   "seed": 246780,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 21.38,
+   "z": 14.66,
+   "rotY": 3.79,
+   "scale": 1.95,
+   "seed": 977691,
+   "color": "#e8a0c0"
+  },
+  {
+   "asset": "gen:table",
+   "x": -21.06,
+   "z": 2.6,
+   "rotY": 1.97,
+   "scale": 1.67,
+   "seed": 904696,
+   "color": "#a88c5c"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -11.05,
+   "z": 20.58,
+   "rotY": 0.91,
+   "scale": 1.66,
+   "seed": 631573,
+   "color": "#8a6a3a"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -0.71,
+   "z": 24.67,
+   "rotY": 2.61,
+   "scale": 1.25,
+   "seed": 842826,
+   "color": "#6b6a5e"
+  },
+  {
+   "asset": "gen:table",
+   "x": -3.06,
+   "z": -6.18,
+   "rotY": 2.22,
+   "scale": 1.49,
+   "seed": 614689,
+   "color": "#9fb38a"
+  },
+  {
+   "asset": "gen:rock",
+   "x": 10.54,
+   "z": -11.69,
+   "rotY": 5.6,
+   "scale": 1.21,
+   "seed": 378797,
+   "color": "#6b6a5e"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 8.34,
+   "z": 8.54,
+   "rotY": 2.59,
+   "scale": 1.22,
+   "seed": 209709,
+   "color": "#8a6a3a"
+  },
+  {
+   "asset": "gen:table",
+   "x": 14.93,
+   "z": 10.15,
+   "rotY": 1.94,
+   "scale": 1.58,
+   "seed": 279012,
+   "color": "#a88c5c"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -5.88,
+   "z": 9.04,
+   "rotY": 5.13,
+   "scale": 1.69,
+   "seed": 497043,
+   "color": "#f0965a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -19.25,
+   "z": -0.62,
+   "rotY": 1.94,
+   "scale": 1.59,
+   "seed": 16435,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -4.73,
+   "z": 8.13,
+   "rotY": 3.73,
+   "scale": 1.85,
+   "seed": 924805,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -3.47,
+   "z": -22.88,
+   "rotY": 5.69,
+   "scale": 1.56,
+   "seed": 116840,
+   "color": "#e8a0c0"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -0.75,
+   "z": 0.51,
+   "rotY": 3.65,
+   "scale": 1.68,
+   "seed": 267433,
+   "color": "#a66bc4"
+  },
+  {
+   "asset": "gen:rock",
+   "x": 10.25,
+   "z": 9.77,
+   "rotY": 2.27,
+   "scale": 1.6,
+   "seed": 249641,
+   "color": "#5f6660"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -3.21,
+   "z": -3.34,
+   "rotY": 0.43,
+   "scale": 1.8,
+   "seed": 837438,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 8.92,
+   "z": 9.36,
+   "rotY": 4.09,
+   "scale": 0.9,
+   "seed": 841993,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -14.58,
+   "z": -15.22,
+   "rotY": 2.47,
+   "scale": 0.98,
+   "seed": 761615,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -16.27,
+   "z": 4.4,
+   "rotY": 1.14,
+   "scale": 1.67,
+   "seed": 361691,
+   "color": "#5f6660"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -17.15,
+   "z": 8.8,
+   "rotY": 2.3,
+   "scale": 1.15,
+   "seed": 193168,
+   "color": "#8a6a3a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -4.71,
+   "z": 5.03,
+   "rotY": 3.77,
+   "scale": 1.74,
+   "seed": 998097,
+   "color": "#e58aa6"
+  },
+  {
+   "asset": "gen:fan",
+   "x": -3.45,
+   "z": 28.32,
+   "rotY": 3.85,
+   "scale": 1.66,
+   "seed": 184175,
+   "color": "#d9483a"
+  },
+  {
+   "asset": "gen:fan",
+   "x": -1.26,
+   "z": -16.5,
+   "rotY": 4.58,
+   "scale": 1.45,
+   "seed": 258852,
+   "color": "#d9483a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -15.27,
+   "z": 3.89,
+   "rotY": 5.43,
+   "scale": 1.27,
+   "seed": 26298,
+   "color": "#8a8a3a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 3.33,
+   "z": 18.86,
+   "rotY": 3.68,
+   "scale": 1.1,
+   "seed": 97081,
+   "color": "#e8a0c0"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 4.21,
+   "z": -19.23,
+   "rotY": 4.48,
+   "scale": 1.17,
+   "seed": 849038,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 4.79,
+   "z": 8.65,
+   "rotY": 5.37,
+   "scale": 1.44,
+   "seed": 588493,
+   "color": "#9c8f4a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -5.99,
+   "z": 5.5,
+   "rotY": 4.17,
+   "scale": 1.51,
+   "seed": 758623,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -27.25,
+   "z": 4.17,
+   "rotY": 2.71,
+   "scale": 1.2,
+   "seed": 321871,
+   "color": "#f0965a"
+  },
+  {
+   "asset": "gen:rock",
+   "x": 3.32,
+   "z": 27.42,
+   "rotY": 0.77,
+   "scale": 1.47,
+   "seed": 954247,
+   "color": "#6b6a5e"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 21.82,
+   "z": 3.13,
+   "rotY": 4.71,
+   "scale": 1.8,
+   "seed": 275630,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -25.95,
+   "z": -8.12,
+   "rotY": 5.79,
+   "scale": 0.94,
+   "seed": 180597,
+   "color": "#5f6660"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 14.61,
+   "z": -19.05,
+   "rotY": 4.74,
+   "scale": 1.73,
+   "seed": 632072,
+   "color": "#8a6a3a"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": 2.92,
+   "z": -12.46,
+   "rotY": 3.29,
+   "scale": 0.97,
+   "seed": 300508
+  },
+  {
+   "asset": "gen:brain",
+   "x": -22.19,
+   "z": 6.13,
+   "rotY": 2.62,
+   "scale": 1.76,
+   "seed": 953989,
+   "color": "#9c8f4a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -20.74,
+   "z": 23.94,
+   "rotY": 4.91,
+   "scale": 1.59,
+   "seed": 442179,
+   "color": "#8a8a3a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -0.21,
+   "z": 23.32,
+   "rotY": 4.41,
+   "scale": 0.9,
+   "seed": 368480,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": 21.43,
+   "z": -12.56,
+   "rotY": 3.72,
+   "scale": 1.53,
+   "seed": 39566
+  },
+  {
+   "asset": "gen:table",
+   "x": 21.9,
+   "z": 20.31,
+   "rotY": 4.56,
+   "scale": 2.22,
+   "seed": 847209,
+   "color": "#b89a6a"
+  },
+  {
+   "asset": "gen:rock",
+   "x": 7.1,
+   "z": 28.65,
+   "rotY": 2.05,
+   "scale": 1.63,
+   "seed": 712177,
+   "color": "#5f6660"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 15.31,
+   "z": 19.02,
+   "rotY": 4.88,
+   "scale": 1.05,
+   "seed": 514221,
+   "color": "#f0965a"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": -23.94,
+   "z": 13.83,
+   "rotY": 3.97,
+   "scale": 1.5,
+   "seed": 771926
+  },
+  {
+   "asset": "gen:table",
+   "x": 6.5,
+   "z": 3.26,
+   "rotY": 3.99,
+   "scale": 1.83,
+   "seed": 926019,
+   "color": "#c9a64e"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -3.71,
+   "z": -18.04,
+   "rotY": 1.46,
+   "scale": 1.3,
+   "seed": 376955,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -9.69,
+   "z": 16.05,
+   "rotY": 6.07,
+   "scale": 1.07,
+   "seed": 691519,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 4.78,
+   "z": -16.44,
+   "rotY": 5.91,
+   "scale": 1.22,
+   "seed": 131662,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -9.45,
+   "z": 28.13,
+   "rotY": 1.21,
+   "scale": 1.25,
+   "seed": 104872,
+   "color": "#9c8f4a"
+  },
+  {
+   "asset": "gen:fan",
+   "x": 15.27,
+   "z": 7.69,
+   "rotY": 5.3,
+   "scale": 1,
+   "seed": 19721,
+   "color": "#e8743a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -7.87,
+   "z": 3.82,
+   "rotY": 4.41,
+   "scale": 1.55,
+   "seed": 993862,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 1.22,
+   "z": 18.7,
+   "rotY": 4.56,
+   "scale": 1.2,
+   "seed": 273777,
+   "color": "#e8a0c0"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -21.64,
+   "z": 16.12,
+   "rotY": 2.22,
+   "scale": 0.99,
+   "seed": 781316,
+   "color": "#6b6a5e"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 8.75,
+   "z": 2.84,
+   "rotY": 3.03,
+   "scale": 1.23,
+   "seed": 975178,
+   "color": "#e58aa6"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -21.27,
+   "z": 6.83,
+   "rotY": 4.49,
+   "scale": 1.43,
+   "seed": 81717,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -4.56,
+   "z": 28.43,
+   "rotY": 4.83,
+   "scale": 1.37,
+   "seed": 441682,
+   "color": "#c9a27e"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -12.27,
+   "z": 9.21,
+   "rotY": 3.47,
+   "scale": 1.51,
+   "seed": 962949,
+   "color": "#8a6a3a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -1.57,
+   "z": -22.16,
+   "rotY": 5.62,
+   "scale": 1.37,
+   "seed": 756384,
+   "color": "#f2b45a"
+  },
+  {
+   "asset": "gen:fan",
+   "x": 14.27,
+   "z": -5.36,
+   "rotY": 4.21,
+   "scale": 1,
+   "seed": 274596,
+   "color": "#c43a52"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 20.47,
+   "z": 5.9,
+   "rotY": 2.29,
+   "scale": 2.2,
+   "seed": 499475,
+   "color": "#e58aa6"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -7.04,
+   "z": 0.59,
+   "rotY": 5.01,
+   "scale": 1.66,
+   "seed": 273090,
+   "color": "#8a6a3a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -5.46,
+   "z": -1.07,
+   "rotY": 1.78,
+   "scale": 1.95,
+   "seed": 773897,
+   "color": "#c9a27e"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 22.29,
+   "z": -6.28,
+   "rotY": 4.27,
+   "scale": 1.57,
+   "seed": 853370,
+   "color": "#e8a0c0"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -5.35,
+   "z": -21.68,
+   "rotY": 2.98,
+   "scale": 1.75,
+   "seed": 551794,
+   "color": "#5f6660"
+  },
+  {
+   "asset": "gen:rock",
+   "x": 13.08,
+   "z": -16.65,
+   "rotY": 0.67,
+   "scale": 1.79,
+   "seed": 678955,
+   "color": "#6b6a5e"
+  },
+  {
+   "asset": "gen:table",
+   "x": 3.54,
+   "z": 23.37,
+   "rotY": 4.68,
+   "scale": 1.37,
+   "seed": 195727,
+   "color": "#c9a64e"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -5.56,
+   "z": -8.56,
+   "rotY": 1.82,
+   "scale": 1.23,
+   "seed": 548351,
+   "color": "#8a8a3a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 5.97,
+   "z": -18.03,
+   "rotY": 1.34,
+   "scale": 1.02,
+   "seed": 984686,
+   "color": "#c9a27e"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 18.73,
+   "z": -16.83,
+   "rotY": 0.82,
+   "scale": 1.07,
+   "seed": 804895,
+   "color": "#9c8f4a"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": -5.67,
+   "z": 6.68,
+   "rotY": 0.2,
+   "scale": 1.72,
+   "seed": 163315
+  },
+  {
+   "asset": "gen:soft",
+   "x": -9.9,
+   "z": 3.68,
+   "rotY": 5.53,
+   "scale": 1.43,
+   "seed": 335528,
+   "color": "#e8a0c0"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -11.56,
+   "z": 12.12,
+   "rotY": 1.32,
+   "scale": 1.39,
+   "seed": 691789,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 10.32,
+   "z": -7.99,
+   "rotY": 3.63,
+   "scale": 1.65,
+   "seed": 562876,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 20.74,
+   "z": 13.07,
+   "rotY": 1.04,
+   "scale": 1.74,
+   "seed": 487867,
+   "color": "#8a6a3a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -12.17,
+   "z": 18.11,
+   "rotY": 0.01,
+   "scale": 1.3,
+   "seed": 262723,
+   "color": "#c9a23a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 17.07,
+   "z": 18.99,
+   "rotY": 4.69,
+   "scale": 1.77,
+   "seed": 809358,
+   "color": "#8a6a3a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -11.54,
+   "z": 7.14,
+   "rotY": 1.24,
+   "scale": 1.19,
+   "seed": 885493,
+   "color": "#c9a27e"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -22.85,
+   "z": 9.22,
+   "rotY": 2.59,
+   "scale": 1.72,
+   "seed": 899359,
+   "color": "#7a7464"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -20.35,
+   "z": -4.64,
+   "rotY": 5.26,
+   "scale": 1.6,
+   "seed": 972708,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -4.6,
+   "z": 16.78,
+   "rotY": 3.84,
+   "scale": 1.04,
+   "seed": 600387,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 8.07,
+   "z": 1.27,
+   "rotY": 0.78,
+   "scale": 1.32,
+   "seed": 691747,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -19.16,
+   "z": 19.16,
+   "rotY": 5.06,
+   "scale": 1.73,
+   "seed": 411714,
+   "color": "#f2b45a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -18.17,
+   "z": -1.84,
+   "rotY": 1.42,
+   "scale": 1.76,
+   "seed": 317954,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -8.25,
+   "z": 4.53,
+   "rotY": 2.43,
+   "scale": 1.55,
+   "seed": 264274,
+   "color": "#6b6a5e"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -13.26,
+   "z": -4.1,
+   "rotY": 4.44,
+   "scale": 1.4,
+   "seed": 172808,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -22.96,
+   "z": 5.26,
+   "rotY": 0.35,
+   "scale": 1.21,
+   "seed": 280778,
+   "color": "#c9a23a"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -4.41,
+   "z": -0.09,
+   "rotY": 0.19,
+   "scale": 1.59,
+   "seed": 572777,
+   "color": "#5f6660"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 4.3,
+   "z": 0.96,
+   "rotY": 0.76,
+   "scale": 1.59,
+   "seed": 23009,
+   "color": "#c9a27e"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -22.56,
+   "z": 14.97,
+   "rotY": 4.37,
+   "scale": 1.21,
+   "seed": 427208,
+   "color": "#8a6a3a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 6.33,
+   "z": -0.48,
+   "rotY": 2.44,
+   "scale": 1.89,
+   "seed": 569407,
+   "color": "#a66bc4"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 5.04,
+   "z": 26.65,
+   "rotY": 0.04,
+   "scale": 1.11,
+   "seed": 417795,
+   "color": "#e8a0c0"
+  },
+  {
+   "asset": "gen:table",
+   "x": -10.66,
+   "z": 8.34,
+   "rotY": 2.62,
+   "scale": 0.93,
+   "seed": 918375,
+   "color": "#b89a6a"
+  },
+  {
+   "asset": "gen:fan",
+   "x": 8.51,
+   "z": 17.67,
+   "rotY": 5.3,
+   "scale": 1.48,
+   "seed": 856199,
+   "color": "#d9483a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -0.58,
+   "z": 15.99,
+   "rotY": 5.6,
+   "scale": 0.92,
+   "seed": 803296,
+   "color": "#c9a27e"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -5.7,
+   "z": 21.32,
+   "rotY": 4.91,
+   "scale": 1.62,
+   "seed": 364159,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": 21.59,
+   "z": 21.66,
+   "rotY": 3.78,
+   "scale": 1.9,
+   "seed": 597670
+  },
+  {
+   "asset": "gen:rock",
+   "x": -18.92,
+   "z": -8.49,
+   "rotY": 4.5,
+   "scale": 1.31,
+   "seed": 933298,
+   "color": "#7a7464"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 25.91,
+   "z": 15.75,
+   "rotY": 3.62,
+   "scale": 2.21,
+   "seed": 682210,
+   "color": "#f2b45a"
+  },
+  {
+   "asset": "gen:fan",
+   "x": 13.89,
+   "z": 2.67,
+   "rotY": 5.31,
+   "scale": 1.47,
+   "seed": 700021,
+   "color": "#e8743a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -11.06,
+   "z": -19.09,
+   "rotY": 5.66,
+   "scale": 0.97,
+   "seed": 872357,
+   "color": "#c9a23a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 15.43,
+   "z": 25.88,
+   "rotY": 5.47,
+   "scale": 0.9,
+   "seed": 225172,
+   "color": "#e58aa6"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 19.81,
+   "z": 3.1,
+   "rotY": 5.87,
+   "scale": 1.54,
+   "seed": 149997,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 1.8,
+   "z": 23.05,
+   "rotY": 1.36,
+   "scale": 1.09,
+   "seed": 161171,
+   "color": "#8a6a3a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 9.89,
+   "z": 5.77,
+   "rotY": 3.82,
+   "scale": 1.5,
+   "seed": 492780,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -21.08,
+   "z": 11.2,
+   "rotY": 2.71,
+   "scale": 1.21,
+   "seed": 211195,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 11.27,
+   "z": 10.85,
+   "rotY": 4.67,
+   "scale": 1.22,
+   "seed": 411901,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 12.79,
+   "z": -20.23,
+   "rotY": 1.23,
+   "scale": 1.23,
+   "seed": 644985,
+   "color": "#9c8f4a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 9.56,
+   "z": 19.02,
+   "rotY": 4.42,
+   "scale": 1.74,
+   "seed": 567348,
+   "color": "#8a8a3a"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": 8.27,
+   "z": -10.73,
+   "rotY": 0.89,
+   "scale": 1.24,
+   "seed": 926608
+  },
+  {
+   "asset": "gen:rock",
+   "x": 4.7,
+   "z": -8.62,
+   "rotY": 5.32,
+   "scale": 1.4,
+   "seed": 211978,
+   "color": "#5f6660"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -1.23,
+   "z": -18.56,
+   "rotY": 1.05,
+   "scale": 1.55,
+   "seed": 819585,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 20.58,
+   "z": 9.27,
+   "rotY": 3.41,
+   "scale": 2.03,
+   "seed": 307593,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:fan",
+   "x": -20.96,
+   "z": -5.72,
+   "rotY": 2.52,
+   "scale": 1.57,
+   "seed": 284622,
+   "color": "#d9483a"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -22.63,
+   "z": -6.67,
+   "rotY": 6.22,
+   "scale": 0.92,
+   "seed": 87923,
+   "color": "#5f6660"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -16.98,
+   "z": -0.4,
+   "rotY": 2.92,
+   "scale": 1.65,
+   "seed": 887696,
+   "color": "#8a6a3a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 5.94,
+   "z": 2.54,
+   "rotY": 6.18,
+   "scale": 1.5,
+   "seed": 693900,
+   "color": "#a66bc4"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -24.4,
+   "z": 12.18,
+   "rotY": 5.12,
+   "scale": 1.36,
+   "seed": 501509,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -16.05,
+   "z": 24.47,
+   "rotY": 3.99,
+   "scale": 1.54,
+   "seed": 647689,
+   "color": "#8a8a3a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -14.4,
+   "z": -19.82,
+   "rotY": 5.09,
+   "scale": 1.68,
+   "seed": 920710,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -2.25,
+   "z": 11.27,
+   "rotY": 4.68,
+   "scale": 1.28,
+   "seed": 107217,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -8.02,
+   "z": 12.84,
+   "rotY": 3.35,
+   "scale": 1.2,
+   "seed": 642706,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -0.33,
+   "z": 18.97,
+   "rotY": 3.6,
+   "scale": 1.18,
+   "seed": 956738,
+   "color": "#e8a0c0"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 9.23,
+   "z": 1.44,
+   "rotY": 5.97,
+   "scale": 1.72,
+   "seed": 728006,
+   "color": "#c9a23a"
+  },
+  {
+   "asset": "gen:fan",
+   "x": 5.95,
+   "z": -15.24,
+   "rotY": 5.23,
+   "scale": 1.25,
+   "seed": 435792,
+   "color": "#c43a52"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -25.69,
+   "z": 3.25,
+   "rotY": 1.08,
+   "scale": 1.34,
+   "seed": 701222,
+   "color": "#f0965a"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": -12.39,
+   "z": 23.03,
+   "rotY": 4.22,
+   "scale": 0.96,
+   "seed": 236360
+  },
+  {
+   "asset": "gen:rock",
+   "x": 11.95,
+   "z": 18.22,
+   "rotY": 1.27,
+   "scale": 0.96,
+   "seed": 269817,
+   "color": "#7a7464"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -2.08,
+   "z": -4.37,
+   "rotY": 4.55,
+   "scale": 1.42,
+   "seed": 24136,
+   "color": "#8a8a3a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 21.33,
+   "z": 8.18,
+   "rotY": 5.68,
+   "scale": 2.27,
+   "seed": 279698,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 11.67,
+   "z": -20.92,
+   "rotY": 3.64,
+   "scale": 1.06,
+   "seed": 418182,
+   "color": "#8a6a3a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -23.84,
+   "z": 8.9,
+   "rotY": 2.21,
+   "scale": 1.58,
+   "seed": 329255,
+   "color": "#f2b45a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 17.36,
+   "z": 15.77,
+   "rotY": 5.79,
+   "scale": 1.69,
+   "seed": 798227,
+   "color": "#e8a0c0"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": 24.02,
+   "z": 6.5,
+   "rotY": 5.29,
+   "scale": 2.25,
+   "seed": 933648
+  },
+  {
+   "asset": "gen:branching",
+   "x": -10.78,
+   "z": -9.13,
+   "rotY": 2.47,
+   "scale": 1.12,
+   "seed": 506200,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 4.71,
+   "z": -23.27,
+   "rotY": 5.09,
+   "scale": 1.54,
+   "seed": 665665,
+   "color": "#c9a27e"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": -1.63,
+   "z": -23.32,
+   "rotY": 0.14,
+   "scale": 1.67,
+   "seed": 532521
+  },
+  {
+   "asset": "gen:branching",
+   "x": 15.03,
+   "z": -13.76,
+   "rotY": 4.05,
+   "scale": 1.31,
+   "seed": 129709,
+   "color": "#c9a27e"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -11.71,
+   "z": 15.72,
+   "rotY": 5.46,
+   "scale": 1.15,
+   "seed": 158175,
+   "color": "#a66bc4"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 2.33,
+   "z": 26.74,
+   "rotY": 1.15,
+   "scale": 1.46,
+   "seed": 906405,
+   "color": "#e8a0c0"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 12.43,
+   "z": -11.9,
+   "rotY": 3.84,
+   "scale": 1.6,
+   "seed": 245351,
+   "color": "#a66bc4"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 8.83,
+   "z": 4.77,
+   "rotY": 3.59,
+   "scale": 1.53,
+   "seed": 124919,
+   "color": "#8a6a3a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -11.31,
+   "z": 2.29,
+   "rotY": 2.23,
+   "scale": 1.58,
+   "seed": 115931,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -27.77,
+   "z": 7.92,
+   "rotY": 5.08,
+   "scale": 1.11,
+   "seed": 957025,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 1.94,
+   "z": -10.97,
+   "rotY": 0.44,
+   "scale": 1.19,
+   "seed": 826018,
+   "color": "#e58aa6"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 5.54,
+   "z": 24.83,
+   "rotY": 3.61,
+   "scale": 1.01,
+   "seed": 931564,
+   "color": "#c9a27e"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -9.91,
+   "z": 12.74,
+   "rotY": 0.86,
+   "scale": 1.4,
+   "seed": 394905,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:table",
+   "x": 12.65,
+   "z": 24.54,
+   "rotY": 3.91,
+   "scale": 1.6,
+   "seed": 180290,
+   "color": "#9fb38a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -17.9,
+   "z": -3.51,
+   "rotY": 0.06,
+   "scale": 1.75,
+   "seed": 693465,
+   "color": "#c9a23a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 25.32,
+   "z": -1.21,
+   "rotY": 4.09,
+   "scale": 1.97,
+   "seed": 732823,
+   "color": "#8a8a3a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -3.03,
+   "z": 2.71,
+   "rotY": 1.89,
+   "scale": 1.97,
+   "seed": 996593,
+   "color": "#e8a0c0"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -8.96,
+   "z": 9.92,
+   "rotY": 0.75,
+   "scale": 1.16,
+   "seed": 699336,
+   "color": "#e8a0c0"
+  },
+  {
+   "asset": "gen:table",
+   "x": 3.37,
+   "z": -21.01,
+   "rotY": 5.39,
+   "scale": 1.6,
+   "seed": 9303,
+   "color": "#c9a64e"
+  },
+  {
+   "asset": "gen:fan",
+   "x": -22.57,
+   "z": -3.88,
+   "rotY": 5.06,
+   "scale": 1.35,
+   "seed": 500214,
+   "color": "#e8743a"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": 18.02,
+   "z": 0.91,
+   "rotY": 2.48,
+   "scale": 1.16,
+   "seed": 497276
+  },
+  {
+   "asset": "gen:soft",
+   "x": -10.91,
+   "z": -22.72,
+   "rotY": 1.89,
+   "scale": 1.13,
+   "seed": 886418,
+   "color": "#a66bc4"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -19.26,
+   "z": -2.53,
+   "rotY": 0.07,
+   "scale": 1.73,
+   "seed": 444866,
+   "color": "#5f6660"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 10.21,
+   "z": 2.16,
+   "rotY": 0.03,
+   "scale": 1.19,
+   "seed": 65270,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -4.77,
+   "z": 10.23,
+   "rotY": 6.28,
+   "scale": 1.27,
+   "seed": 564432,
+   "color": "#8a6a3a"
+  },
+  {
+   "asset": "gen:fan",
+   "x": 14.05,
+   "z": 0.2,
+   "rotY": 5.47,
+   "scale": 1.64,
+   "seed": 884259,
+   "color": "#e8743a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -26.48,
+   "z": 13.48,
+   "rotY": 1.96,
+   "scale": 1.69,
+   "seed": 690930,
+   "color": "#a66bc4"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -20.18,
+   "z": 6.91,
+   "rotY": 4.85,
+   "scale": 1.31,
+   "seed": 836221,
+   "color": "#f2b45a"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -23.37,
+   "z": -2.62,
+   "rotY": 5.33,
+   "scale": 0.95,
+   "seed": 311465,
+   "color": "#7a7464"
+  },
+  {
+   "asset": "gen:fan",
+   "x": -9.57,
+   "z": -10.55,
+   "rotY": 0.64,
+   "scale": 1.31,
+   "seed": 776594,
+   "color": "#c43a52"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 16.65,
+   "z": 9.45,
+   "rotY": 2.95,
+   "scale": 1.28,
+   "seed": 937324,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": -5.32,
+   "z": 10.82,
+   "rotY": 1.26,
+   "scale": 1.18,
+   "seed": 268963
+  },
+  {
+   "asset": "gen:brain",
+   "x": 5.39,
+   "z": 4.14,
+   "rotY": 3.27,
+   "scale": 1.72,
+   "seed": 894714,
+   "color": "#8a6a3a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -14.76,
+   "z": 16.42,
+   "rotY": 1.72,
+   "scale": 1.23,
+   "seed": 116064,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": 18.28,
+   "z": -9.56,
+   "rotY": 0.49,
+   "scale": 1.44,
+   "seed": 247420
+  },
+  {
+   "asset": "gen:fan",
+   "x": -17.92,
+   "z": 5.77,
+   "rotY": 1.14,
+   "scale": 1.68,
+   "seed": 546717,
+   "color": "#d9483a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -16.62,
+   "z": 15.82,
+   "rotY": 4.85,
+   "scale": 1.8,
+   "seed": 273129,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:fan",
+   "x": -21.01,
+   "z": 13.53,
+   "rotY": 5.26,
+   "scale": 1.17,
+   "seed": 584674,
+   "color": "#d9483a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 24.54,
+   "z": -0.47,
+   "rotY": 2.36,
+   "scale": 1.77,
+   "seed": 205770,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 23.07,
+   "z": 8.27,
+   "rotY": 1.95,
+   "scale": 1.42,
+   "seed": 748057,
+   "color": "#f0965a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -14.23,
+   "z": 15.11,
+   "rotY": 2.99,
+   "scale": 1.18,
+   "seed": 974792,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "gen:table",
+   "x": -4.31,
+   "z": -15.07,
+   "rotY": 0.97,
+   "scale": 1.14,
+   "seed": 862666,
+   "color": "#c9a64e"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -13.23,
+   "z": 5.51,
+   "rotY": 0.17,
+   "scale": 1.33,
+   "seed": 148133,
+   "color": "#a66bc4"
+  },
+  {
+   "asset": "gen:fan",
+   "x": -2.03,
+   "z": -12.4,
+   "rotY": 3.59,
+   "scale": 1.67,
+   "seed": 37171,
+   "color": "#c43a52"
+  },
+  {
+   "asset": "gen:rock",
+   "x": 27.18,
+   "z": 13.08,
+   "rotY": 2.48,
+   "scale": 1.64,
+   "seed": 35577,
+   "color": "#7a7464"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": 6.8,
+   "z": 5.71,
+   "rotY": 2.05,
+   "scale": 1.21,
+   "seed": 22882
+  },
+  {
+   "asset": "gen:branching",
+   "x": -10.82,
+   "z": -0.97,
+   "rotY": 5.27,
+   "scale": 1.18,
+   "seed": 955062,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": -8.63,
+   "z": 3.06,
+   "rotY": 0.21,
+   "scale": 1.25,
+   "seed": 594933
+  },
+  {
+   "asset": "coral02.glb",
+   "x": -15.99,
+   "z": 5.8,
+   "rotY": 3.68,
+   "scale": 1.39,
+   "seed": 818894
+  },
+  {
+   "asset": "gen:branching",
+   "x": -9.67,
+   "z": -9.16,
+   "rotY": 0.24,
+   "scale": 1.67,
+   "seed": 788969,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:fan",
+   "x": 6.33,
+   "z": -19.22,
+   "rotY": 5.58,
+   "scale": 1.15,
+   "seed": 298210,
+   "color": "#c43a52"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -17.09,
+   "z": 20.26,
+   "rotY": 0.61,
+   "scale": 1.58,
+   "seed": 580096,
+   "color": "#8a6a3a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 12.62,
+   "z": 1.66,
+   "rotY": 4.15,
+   "scale": 1.55,
+   "seed": 950017,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 26.84,
+   "z": 3.46,
+   "rotY": 3.41,
+   "scale": 2.03,
+   "seed": 405158,
+   "color": "#8a8a3a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -13.94,
+   "z": -18.64,
+   "rotY": 5.78,
+   "scale": 1.09,
+   "seed": 382094,
+   "color": "#9c8f4a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 19.16,
+   "z": 12.49,
+   "rotY": 2.75,
+   "scale": 1.66,
+   "seed": 417102,
+   "color": "#e8a0c0"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -4.69,
+   "z": -2.7,
+   "rotY": 3.32,
+   "scale": 1.39,
+   "seed": 107447,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": 11.73,
+   "z": -8.64,
+   "rotY": 3.65,
+   "scale": 1.6,
+   "seed": 602652
+  },
+  {
+   "asset": "gen:branching",
+   "x": -21.29,
+   "z": 4.9,
+   "rotY": 0.52,
+   "scale": 1.7,
+   "seed": 869691,
+   "color": "#c9a27e"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 9.88,
+   "z": -14.07,
+   "rotY": 3.75,
+   "scale": 1.57,
+   "seed": 85376,
+   "color": "#c9a23a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -19.13,
+   "z": 4.24,
+   "rotY": 5.89,
+   "scale": 1.69,
+   "seed": 896378,
+   "color": "#8a6a3a"
+  },
+  {
+   "asset": "gen:fan",
+   "x": 5.11,
+   "z": 15.62,
+   "rotY": 5.96,
+   "scale": 1.36,
+   "seed": 3200,
+   "color": "#c43a52"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 12.54,
+   "z": 22.51,
+   "rotY": 1.65,
+   "scale": 0.91,
+   "seed": 463367,
+   "color": "#f2b45a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -3.46,
+   "z": 13.91,
+   "rotY": 1.91,
+   "scale": 1.74,
+   "seed": 570049,
+   "color": "#f0965a"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -11.04,
+   "z": -17.32,
+   "rotY": 5.38,
+   "scale": 1.24,
+   "seed": 261629,
+   "color": "#6b6a5e"
+  },
+  {
+   "asset": "gen:table",
+   "x": -12.38,
+   "z": 13.57,
+   "rotY": 2.03,
+   "scale": 1.57,
+   "seed": 74456,
+   "color": "#b89a6a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 9.31,
+   "z": 10.61,
+   "rotY": 5.86,
+   "scale": 1.36,
+   "seed": 986075,
+   "color": "#9c8f4a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -9.9,
+   "z": -16.66,
+   "rotY": 0.95,
+   "scale": 1.2,
+   "seed": 562964,
+   "color": "#8a8a3a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -10.97,
+   "z": 11.14,
+   "rotY": 1.57,
+   "scale": 1.31,
+   "seed": 161553,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:rock",
+   "x": 17.78,
+   "z": 21.99,
+   "rotY": 0.61,
+   "scale": 2.24,
+   "seed": 984303,
+   "color": "#6b6a5e"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": -19.86,
+   "z": 21.99,
+   "rotY": 3.01,
+   "scale": 1.62,
+   "seed": 692627
+  },
+  {
+   "asset": "gen:brain",
+   "x": 19.1,
+   "z": -0.27,
+   "rotY": 1.08,
+   "scale": 0.99,
+   "seed": 856786,
+   "color": "#9c8f4a"
+  },
+  {
+   "asset": "gen:table",
+   "x": 26.62,
+   "z": 10.53,
+   "rotY": 0.72,
+   "scale": 1.88,
+   "seed": 335109,
+   "color": "#a88c5c"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -7.87,
+   "z": 8.96,
+   "rotY": 3.49,
+   "scale": 2,
+   "seed": 749983,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -8.28,
+   "z": -15.48,
+   "rotY": 5.85,
+   "scale": 1.28,
+   "seed": 144487,
+   "color": "#e58aa6"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -3.08,
+   "z": -20.96,
+   "rotY": 2.93,
+   "scale": 1.26,
+   "seed": 801063,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 9.18,
+   "z": -13.2,
+   "rotY": 0.65,
+   "scale": 1.67,
+   "seed": 252196,
+   "color": "#c9a27e"
+  },
+  {
+   "asset": "gen:table",
+   "x": -6.16,
+   "z": 10.72,
+   "rotY": 0.25,
+   "scale": 1.28,
+   "seed": 910637,
+   "color": "#9fb38a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -2.15,
+   "z": -19.97,
+   "rotY": 3.31,
+   "scale": 1.54,
+   "seed": 998711,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 1.95,
+   "z": 19.88,
+   "rotY": 2.83,
+   "scale": 1.66,
+   "seed": 860897,
+   "color": "#a66bc4"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -15.37,
+   "z": 11.23,
+   "rotY": 5.28,
+   "scale": 1.76,
+   "seed": 121853,
+   "color": "#8a8a3a"
+  },
+  {
+   "asset": "gen:fan",
+   "x": -14.86,
+   "z": -17.45,
+   "rotY": 3.42,
+   "scale": 1.57,
+   "seed": 296158,
+   "color": "#c43a52"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -14.82,
+   "z": 1.58,
+   "rotY": 4.47,
+   "scale": 1.08,
+   "seed": 644929,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 10.11,
+   "z": 21.88,
+   "rotY": 1.89,
+   "scale": 1.46,
+   "seed": 104444,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -8.2,
+   "z": -2.64,
+   "rotY": 1.73,
+   "scale": 1.54,
+   "seed": 535671,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 15.94,
+   "z": -9.7,
+   "rotY": 3.57,
+   "scale": 1.44,
+   "seed": 620112,
+   "color": "#c9a23a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -13.11,
+   "z": 8.32,
+   "rotY": 5.03,
+   "scale": 1.23,
+   "seed": 776067,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 10.23,
+   "z": -17.09,
+   "rotY": 2.01,
+   "scale": 1.26,
+   "seed": 562347,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -14.15,
+   "z": -16.19,
+   "rotY": 5.65,
+   "scale": 0.99,
+   "seed": 322001,
+   "color": "#e8a0c0"
+  },
+  {
+   "asset": "gen:rock",
+   "x": 6.86,
+   "z": 10.67,
+   "rotY": 0.14,
+   "scale": 1.82,
+   "seed": 982651,
+   "color": "#7a7464"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 3.74,
+   "z": 21.61,
+   "rotY": 2.09,
+   "scale": 1.1,
+   "seed": 512633,
+   "color": "#c9a27e"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -23.74,
+   "z": 16.56,
+   "rotY": 2.12,
+   "scale": 0.93,
+   "seed": 125264,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": 6.35,
+   "z": 20.42,
+   "rotY": 5.03,
+   "scale": 0.94,
+   "seed": 611483
+  },
+  {
+   "asset": "gen:soft",
+   "x": 5.55,
+   "z": -6.48,
+   "rotY": 1.34,
+   "scale": 1.18,
+   "seed": 624896,
+   "color": "#f0965a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -13.04,
+   "z": 15.95,
+   "rotY": 3.22,
+   "scale": 1.47,
+   "seed": 594423,
+   "color": "#c9a27e"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 12.45,
+   "z": 10.62,
+   "rotY": 6.02,
+   "scale": 1.22,
+   "seed": 929350,
+   "color": "#f0965a"
+  },
+  {
+   "asset": "gen:fan",
+   "x": -23.83,
+   "z": -8.24,
+   "rotY": 4.16,
+   "scale": 1.12,
+   "seed": 332672,
+   "color": "#d9483a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 8.82,
+   "z": 0.08,
+   "rotY": 2.31,
+   "scale": 1.9,
+   "seed": 38573,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": 5.98,
+   "z": 0.46,
+   "rotY": 2.73,
+   "scale": 1.72,
+   "seed": 471054
+  },
+  {
+   "asset": "gen:branching",
+   "x": 8.06,
+   "z": 27.23,
+   "rotY": 5.26,
+   "scale": 1.45,
+   "seed": 415144,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 11.25,
+   "z": 3.33,
+   "rotY": 4.98,
+   "scale": 1.52,
+   "seed": 109604,
+   "color": "#9c8f4a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -7.19,
+   "z": -23.12,
+   "rotY": 2.83,
+   "scale": 1.32,
+   "seed": 584617,
+   "color": "#a66bc4"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -1.26,
+   "z": -2.82,
+   "rotY": 1.59,
+   "scale": 1.29,
+   "seed": 537069,
+   "color": "#c9a23a"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": 12.62,
+   "z": 8.56,
+   "rotY": 5.55,
+   "scale": 1.55,
+   "seed": 564592
+  },
+  {
+   "asset": "gen:soft",
+   "x": -15.28,
+   "z": 9.94,
+   "rotY": 3.01,
+   "scale": 1.65,
+   "seed": 438871,
+   "color": "#f2b45a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -9.69,
+   "z": 10.84,
+   "rotY": 1.52,
+   "scale": 1.19,
+   "seed": 427482,
+   "color": "#c9a27e"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -3.98,
+   "z": -16.99,
+   "rotY": 4.08,
+   "scale": 1.72,
+   "seed": 632961,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -17.81,
+   "z": -5.28,
+   "rotY": 4.63,
+   "scale": 1.72,
+   "seed": 282453,
+   "color": "#6b6a5e"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -3.36,
+   "z": 6.65,
+   "rotY": 2.81,
+   "scale": 1.47,
+   "seed": 63845,
+   "color": "#e58aa6"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 21.66,
+   "z": 10.16,
+   "rotY": 5.22,
+   "scale": 2.12,
+   "seed": 307400,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:table",
+   "x": -8.13,
+   "z": 8.11,
+   "rotY": 1.54,
+   "scale": 1.31,
+   "seed": 694550,
+   "color": "#c9a64e"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 6.53,
+   "z": -16.89,
+   "rotY": 0.09,
+   "scale": 1.31,
+   "seed": 634972,
+   "color": "#f0965a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 7.63,
+   "z": -5.12,
+   "rotY": 0.33,
+   "scale": 0.94,
+   "seed": 221448,
+   "color": "#c9a23a"
+  },
+  {
+   "asset": "gen:table",
+   "x": 7.67,
+   "z": 10.07,
+   "rotY": 2.15,
+   "scale": 1.26,
+   "seed": 368252,
+   "color": "#b89a6a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 2.32,
+   "z": -3.15,
+   "rotY": 2.32,
+   "scale": 1.4,
+   "seed": 172695,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -5.39,
+   "z": -3.34,
+   "rotY": 2.89,
+   "scale": 1.75,
+   "seed": 838398,
+   "color": "#f2b45a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -22.78,
+   "z": 3.64,
+   "rotY": 4.24,
+   "scale": 1.73,
+   "seed": 633053,
+   "color": "#f0965a"
+  },
+  {
+   "asset": "gen:fan",
+   "x": -7.28,
+   "z": 21.41,
+   "rotY": 5.1,
+   "scale": 1.72,
+   "seed": 599377,
+   "color": "#c43a52"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -5.72,
+   "z": 14.78,
+   "rotY": 2.35,
+   "scale": 1.57,
+   "seed": 538032,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -9.49,
+   "z": 6.71,
+   "rotY": 2.82,
+   "scale": 1.79,
+   "seed": 959578,
+   "color": "#c9a27e"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": 8.88,
+   "z": -7.02,
+   "rotY": 4.31,
+   "scale": 1.01,
+   "seed": 138064
+  },
+  {
+   "asset": "gen:table",
+   "x": 22.33,
+   "z": 4.89,
+   "rotY": 5.33,
+   "scale": 1.54,
+   "seed": 494744,
+   "color": "#c9a64e"
+  },
+  {
+   "asset": "gen:table",
+   "x": -8.57,
+   "z": -18.59,
+   "rotY": 4.9,
+   "scale": 1.12,
+   "seed": 192709,
+   "color": "#a88c5c"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 22.77,
+   "z": 15.54,
+   "rotY": 3.04,
+   "scale": 1.93,
+   "seed": 884879,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 25.03,
+   "z": -9.01,
+   "rotY": 5.6,
+   "scale": 2.05,
+   "seed": 516296,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 0.45,
+   "z": 17.48,
+   "rotY": 1.76,
+   "scale": 1.07,
+   "seed": 120542,
+   "color": "#f2b45a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 17.67,
+   "z": 11.11,
+   "rotY": 4.22,
+   "scale": 2.23,
+   "seed": 107354,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": -1.6,
+   "z": 2.64,
+   "rotY": 1.67,
+   "scale": 1.9,
+   "seed": 142797
+  },
+  {
+   "asset": "gen:rock",
+   "x": -0.89,
+   "z": -0.52,
+   "rotY": 2.82,
+   "scale": 1.59,
+   "seed": 393663,
+   "color": "#5f6660"
+  },
+  {
+   "asset": "gen:fan",
+   "x": 17.19,
+   "z": 25.89,
+   "rotY": 5.37,
+   "scale": 1.53,
+   "seed": 180531,
+   "color": "#e8743a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -18.87,
+   "z": 3.25,
+   "rotY": 2.05,
+   "scale": 1.15,
+   "seed": 423913,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 12.1,
+   "z": 0.8,
+   "rotY": 5.94,
+   "scale": 1.08,
+   "seed": 495370,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -4.61,
+   "z": 2.87,
+   "rotY": 3.59,
+   "scale": 1.25,
+   "seed": 900556,
+   "color": "#7a7464"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 3.64,
+   "z": -22.01,
+   "rotY": 3.78,
+   "scale": 1.09,
+   "seed": 259591,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -5.26,
+   "z": 25.09,
+   "rotY": 5.98,
+   "scale": 1.45,
+   "seed": 514424,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -2.38,
+   "z": -16.69,
+   "rotY": 2.16,
+   "scale": 1.29,
+   "seed": 536889,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -12.13,
+   "z": -2.58,
+   "rotY": 1.26,
+   "scale": 1.39,
+   "seed": 342606,
+   "color": "#f2b45a"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": 14.63,
+   "z": -7.24,
+   "rotY": 4.06,
+   "scale": 1.15,
+   "seed": 849140
+  },
+  {
+   "asset": "gen:branching",
+   "x": 6.87,
+   "z": 12,
+   "rotY": 1.51,
+   "scale": 1.67,
+   "seed": 776238,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -7.03,
+   "z": 19,
+   "rotY": 6.25,
+   "scale": 1.06,
+   "seed": 475061,
+   "color": "#f2b45a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -14.51,
+   "z": -9.45,
+   "rotY": 0.91,
+   "scale": 1.62,
+   "seed": 940104,
+   "color": "#9c8f4a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -6.73,
+   "z": 8.89,
+   "rotY": 5.37,
+   "scale": 1.69,
+   "seed": 316733,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:fan",
+   "x": -9.03,
+   "z": -6.18,
+   "rotY": 2.14,
+   "scale": 1.62,
+   "seed": 596889,
+   "color": "#e8743a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -16.86,
+   "z": 11.59,
+   "rotY": 1.27,
+   "scale": 1.3,
+   "seed": 17786,
+   "color": "#c9a23a"
+  },
+  {
+   "asset": "gen:table",
+   "x": 20.87,
+   "z": 19.09,
+   "rotY": 2.7,
+   "scale": 1.4,
+   "seed": 564677,
+   "color": "#a88c5c"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 19.96,
+   "z": -16.76,
+   "rotY": 1.94,
+   "scale": 1.46,
+   "seed": 984605,
+   "color": "#8a6a3a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 23.22,
+   "z": 17.11,
+   "rotY": 4.12,
+   "scale": 1.77,
+   "seed": 667139,
+   "color": "#e8a0c0"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 6.54,
+   "z": -7.05,
+   "rotY": 1.46,
+   "scale": 0.9,
+   "seed": 994421,
+   "color": "#8a8a3a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 8.54,
+   "z": -22.86,
+   "rotY": 0.61,
+   "scale": 1.54,
+   "seed": 825602,
+   "color": "#f0965a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 23.77,
+   "z": 15.13,
+   "rotY": 3.57,
+   "scale": 1.61,
+   "seed": 774080,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": 13.88,
+   "z": 18.87,
+   "rotY": 3.37,
+   "scale": 1.26,
+   "seed": 660779
+  },
+  {
+   "asset": "gen:branching",
+   "x": -1.1,
+   "z": 22.43,
+   "rotY": 0.92,
+   "scale": 1.34,
+   "seed": 781562,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -22.5,
+   "z": 0,
+   "rotY": 1.45,
+   "scale": 1.65,
+   "seed": 808275,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -23.37,
+   "z": 7.88,
+   "rotY": 2.32,
+   "scale": 1.03,
+   "seed": 654123,
+   "color": "#6b6a5e"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 3.4,
+   "z": -10.2,
+   "rotY": 6.05,
+   "scale": 1.09,
+   "seed": 400240,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:fan",
+   "x": 5.98,
+   "z": 21.48,
+   "rotY": 1.4,
+   "scale": 1.59,
+   "seed": 121758,
+   "color": "#c43a52"
+  },
+  {
+   "asset": "gen:table",
+   "x": -6.53,
+   "z": -0.03,
+   "rotY": 5.95,
+   "scale": 1.12,
+   "seed": 899306,
+   "color": "#9fb38a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 17.94,
+   "z": 7.69,
+   "rotY": 2.02,
+   "scale": 1.45,
+   "seed": 51469,
+   "color": "#a66bc4"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -5.84,
+   "z": 17.09,
+   "rotY": 2.89,
+   "scale": 1.13,
+   "seed": 532680,
+   "color": "#c9a27e"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 11.85,
+   "z": -14.44,
+   "rotY": 4.7,
+   "scale": 1.39,
+   "seed": 286061,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -11.36,
+   "z": 0.68,
+   "rotY": 4.64,
+   "scale": 1.57,
+   "seed": 253238,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -13.33,
+   "z": 24.59,
+   "rotY": 4.34,
+   "scale": 1.07,
+   "seed": 729911,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -16.5,
+   "z": 17.13,
+   "rotY": 5.84,
+   "scale": 1.45,
+   "seed": 213675,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 5.6,
+   "z": -0.85,
+   "rotY": 5.53,
+   "scale": 1.84,
+   "seed": 640261,
+   "color": "#9c8f4a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 8.63,
+   "z": 13.9,
+   "rotY": 4.22,
+   "scale": 1.04,
+   "seed": 81460,
+   "color": "#c9a27e"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -7.7,
+   "z": -19.32,
+   "rotY": 1.6,
+   "scale": 1.26,
+   "seed": 437032,
+   "color": "#7a7464"
+  },
+  {
+   "asset": "gen:table",
+   "x": 12.67,
+   "z": -8.17,
+   "rotY": 3.35,
+   "scale": 1.38,
+   "seed": 310187,
+   "color": "#c9a64e"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -25.98,
+   "z": 16.33,
+   "rotY": 1.74,
+   "scale": 1.52,
+   "seed": 622924,
+   "color": "#9c8f4a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -16,
+   "z": -6.49,
+   "rotY": 5.11,
+   "scale": 1.78,
+   "seed": 31788,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -4.43,
+   "z": 27.34,
+   "rotY": 2.93,
+   "scale": 1.18,
+   "seed": 307938,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 16.44,
+   "z": 6.86,
+   "rotY": 2.63,
+   "scale": 1.47,
+   "seed": 297772,
+   "color": "#f0965a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -2.32,
+   "z": -15.24,
+   "rotY": 0.64,
+   "scale": 1.78,
+   "seed": 217439,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 15.9,
+   "z": -4.43,
+   "rotY": 4.75,
+   "scale": 1.06,
+   "seed": 994822,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:fan",
+   "x": -16.51,
+   "z": 13.48,
+   "rotY": 4.54,
+   "scale": 1.4,
+   "seed": 271854,
+   "color": "#d9483a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 3.49,
+   "z": 16.71,
+   "rotY": 1.59,
+   "scale": 1.72,
+   "seed": 871834,
+   "color": "#a66bc4"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 12.67,
+   "z": 19.43,
+   "rotY": 0.69,
+   "scale": 1.38,
+   "seed": 581925,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -17.24,
+   "z": 7.24,
+   "rotY": 5.57,
+   "scale": 1.34,
+   "seed": 203211,
+   "color": "#6b6a5e"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 4.97,
+   "z": 0.03,
+   "rotY": 5.09,
+   "scale": 1.12,
+   "seed": 239347,
+   "color": "#c9a23a"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": 14.24,
+   "z": 13.43,
+   "rotY": 2.55,
+   "scale": 1.59,
+   "seed": 640214
+  },
+  {
+   "asset": "gen:rock",
+   "x": 6.3,
+   "z": 15.62,
+   "rotY": 1.83,
+   "scale": 1.1,
+   "seed": 115067,
+   "color": "#7a7464"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 17.71,
+   "z": 13.18,
+   "rotY": 5.41,
+   "scale": 1.67,
+   "seed": 196655,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -15.59,
+   "z": 2.87,
+   "rotY": 2.62,
+   "scale": 1.48,
+   "seed": 717605,
+   "color": "#e8a0c0"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": 7.33,
+   "z": 0.58,
+   "rotY": 5.44,
+   "scale": 1.18,
+   "seed": 848105
+  },
+  {
+   "asset": "gen:table",
+   "x": 8.7,
+   "z": -16.68,
+   "rotY": 2.08,
+   "scale": 1.52,
+   "seed": 876087,
+   "color": "#a88c5c"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 8.05,
+   "z": 29.17,
+   "rotY": 2.64,
+   "scale": 0.99,
+   "seed": 958760,
+   "color": "#c9a27e"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 28.22,
+   "z": -1.38,
+   "rotY": 1.2,
+   "scale": 1.67,
+   "seed": 929719,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:table",
+   "x": 11.33,
+   "z": 9.56,
+   "rotY": 2.38,
+   "scale": 0.99,
+   "seed": 657330,
+   "color": "#b89a6a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 5.5,
+   "z": 9.76,
+   "rotY": 0.59,
+   "scale": 1.55,
+   "seed": 64377,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:fan",
+   "x": -7.84,
+   "z": -5.24,
+   "rotY": 4.54,
+   "scale": 1,
+   "seed": 151287,
+   "color": "#d9483a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -9.24,
+   "z": 27.06,
+   "rotY": 0.03,
+   "scale": 1.68,
+   "seed": 939850,
+   "color": "#8a8a3a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 16.29,
+   "z": 3.3,
+   "rotY": 0.1,
+   "scale": 1.27,
+   "seed": 957346,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 18.97,
+   "z": 2.31,
+   "rotY": 5.86,
+   "scale": 0.99,
+   "seed": 827039,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -12.38,
+   "z": 19.81,
+   "rotY": 1.66,
+   "scale": 1.36,
+   "seed": 195626,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "gen:table",
+   "x": 13.83,
+   "z": 11.5,
+   "rotY": 2.07,
+   "scale": 1.59,
+   "seed": 4203,
+   "color": "#9fb38a"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -8.56,
+   "z": 7.23,
+   "rotY": 0.73,
+   "scale": 1.98,
+   "seed": 563994,
+   "color": "#7a7464"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -16.57,
+   "z": 2.15,
+   "rotY": 1.9,
+   "scale": 1.18,
+   "seed": 97931,
+   "color": "#e8a0c0"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 9.78,
+   "z": -6.14,
+   "rotY": 4.78,
+   "scale": 1.59,
+   "seed": 47454,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -12.78,
+   "z": 17.13,
+   "rotY": 6.11,
+   "scale": 1.62,
+   "seed": 172269,
+   "color": "#8a6a3a"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -3.82,
+   "z": -2,
+   "rotY": 3.09,
+   "scale": 1.92,
+   "seed": 963793,
+   "color": "#7a7464"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": 16.86,
+   "z": 20.85,
+   "rotY": 2.81,
+   "scale": 1.72,
+   "seed": 420024
+  },
+  {
+   "asset": "coral02.glb",
+   "x": -14.92,
+   "z": 5.94,
+   "rotY": 3.28,
+   "scale": 0.92,
+   "seed": 891658
+  },
+  {
+   "asset": "gen:brain",
+   "x": 18.91,
+   "z": 13.97,
+   "rotY": 1,
+   "scale": 1.64,
+   "seed": 75065,
+   "color": "#8a8a3a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -24.51,
+   "z": 15.76,
+   "rotY": 0.82,
+   "scale": 0.92,
+   "seed": 908453,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:table",
+   "x": 18.85,
+   "z": -11.64,
+   "rotY": 3.04,
+   "scale": 1.02,
+   "seed": 875004,
+   "color": "#c9a64e"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -18.98,
+   "z": 25.09,
+   "rotY": 5.62,
+   "scale": 1.38,
+   "seed": 742448,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 18.31,
+   "z": -4.86,
+   "rotY": 1.23,
+   "scale": 2.21,
+   "seed": 173760,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:rock",
+   "x": 5.6,
+   "z": -13.73,
+   "rotY": 5.61,
+   "scale": 1.31,
+   "seed": 629614,
+   "color": "#6b6a5e"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -8.74,
+   "z": 23.98,
+   "rotY": 5.21,
+   "scale": 1.71,
+   "seed": 535996,
+   "color": "#5f6660"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -7.28,
+   "z": 12.12,
+   "rotY": 4.63,
+   "scale": 1.54,
+   "seed": 722194,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -1.75,
+   "z": 0.39,
+   "rotY": 0.91,
+   "scale": 1.2,
+   "seed": 704179,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -4.44,
+   "z": -21,
+   "rotY": 1.52,
+   "scale": 1.52,
+   "seed": 168157,
+   "color": "#f2b45a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -9.06,
+   "z": -7.89,
+   "rotY": 3.7,
+   "scale": 1.02,
+   "seed": 859037,
+   "color": "#8a8a3a"
+  },
+  {
+   "asset": "gen:rock",
+   "x": 2.83,
+   "z": -19.97,
+   "rotY": 4.37,
+   "scale": 1.08,
+   "seed": 770250,
+   "color": "#6b6a5e"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 15.49,
+   "z": -6.51,
+   "rotY": 4.04,
+   "scale": 1.14,
+   "seed": 10878,
+   "color": "#c9a23a"
+  },
+  {
+   "asset": "gen:fan",
+   "x": 19.87,
+   "z": 18.82,
+   "rotY": 1.6,
+   "scale": 1.54,
+   "seed": 632005,
+   "color": "#c43a52"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 13.99,
+   "z": 17.43,
+   "rotY": 4.8,
+   "scale": 1.35,
+   "seed": 920148,
+   "color": "#c9a23a"
+  },
+  {
+   "asset": "gen:fan",
+   "x": 11.1,
+   "z": -9.98,
+   "rotY": 3.84,
+   "scale": 1.09,
+   "seed": 602120,
+   "color": "#e8743a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 11.01,
+   "z": 12.64,
+   "rotY": 0.34,
+   "scale": 1.3,
+   "seed": 797217,
+   "color": "#9c8f4a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -12.32,
+   "z": 26.32,
+   "rotY": 4.11,
+   "scale": 1.44,
+   "seed": 234395,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 18.22,
+   "z": -7.81,
+   "rotY": 3.38,
+   "scale": 1.17,
+   "seed": 124269,
+   "color": "#e8a0c0"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 22.91,
+   "z": 19.85,
+   "rotY": 1.22,
+   "scale": 1.45,
+   "seed": 115770,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 27.28,
+   "z": 8.52,
+   "rotY": 1.18,
+   "scale": 1.74,
+   "seed": 874347,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -2.44,
+   "z": 19.07,
+   "rotY": 3.37,
+   "scale": 1.55,
+   "seed": 779520,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 11.71,
+   "z": 14.89,
+   "rotY": 5.29,
+   "scale": 1.44,
+   "seed": 99228,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -4.44,
+   "z": -19.12,
+   "rotY": 0.01,
+   "scale": 0.98,
+   "seed": 146207,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 7.35,
+   "z": 5.01,
+   "rotY": 5.97,
+   "scale": 1.51,
+   "seed": 98334,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -0.84,
+   "z": -20.99,
+   "rotY": 6.06,
+   "scale": 1.43,
+   "seed": 993415,
+   "color": "#e9dcc0"
+  },
+  {
+   "asset": "gen:fan",
+   "x": 15.09,
+   "z": -0.09,
+   "rotY": 6.07,
+   "scale": 0.91,
+   "seed": 205636,
+   "color": "#d9483a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 7.74,
+   "z": 8.02,
+   "rotY": 3.15,
+   "scale": 1.92,
+   "seed": 771686,
+   "color": "#9c8f4a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 8.95,
+   "z": 12.59,
+   "rotY": 3.26,
+   "scale": 1.45,
+   "seed": 250422,
+   "color": "#8a6a3a"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -4.25,
+   "z": 11.77,
+   "rotY": 3.66,
+   "scale": 1.17,
+   "seed": 644718,
+   "color": "#6b6a5e"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 15.47,
+   "z": -17.16,
+   "rotY": 2.13,
+   "scale": 1.58,
+   "seed": 224957,
+   "color": "#e58aa6"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -6.33,
+   "z": -20.1,
+   "rotY": 4.99,
+   "scale": 1.28,
+   "seed": 160901,
+   "color": "#a66bc4"
+  },
+  {
+   "asset": "gen:fan",
+   "x": 5.42,
+   "z": 1.6,
+   "rotY": 0.53,
+   "scale": 1.4,
+   "seed": 241665,
+   "color": "#c43a52"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 8.06,
+   "z": 18.82,
+   "rotY": 5.88,
+   "scale": 1.06,
+   "seed": 891175,
+   "color": "#8a6a3a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 27.75,
+   "z": 10.12,
+   "rotY": 2.4,
+   "scale": 2.27,
+   "seed": 793673,
+   "color": "#f2b45a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -26.07,
+   "z": 4.45,
+   "rotY": 1.16,
+   "scale": 1.78,
+   "seed": 634776,
+   "color": "#a66bc4"
+  },
+  {
+   "asset": "gen:table",
+   "x": -18.01,
+   "z": 15.78,
+   "rotY": 3.73,
+   "scale": 1.28,
+   "seed": 67912,
+   "color": "#a88c5c"
+  },
+  {
+   "asset": "gen:rock",
+   "x": -14.09,
+   "z": 28.71,
+   "rotY": 5.76,
+   "scale": 1.31,
+   "seed": 365787,
+   "color": "#6b6a5e"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -0.4,
+   "z": 25.83,
+   "rotY": 0.81,
+   "scale": 1.1,
+   "seed": 687609,
+   "color": "#e8a0c0"
+  },
+  {
+   "asset": "gen:fan",
+   "x": 16.89,
+   "z": -16.81,
+   "rotY": 2.5,
+   "scale": 1.16,
+   "seed": 523788,
+   "color": "#c43a52"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": 13.34,
+   "z": 10.11,
+   "rotY": 5.99,
+   "scale": 1.33,
+   "seed": 657770
+  },
+  {
+   "asset": "coral02.glb",
+   "x": 19.48,
+   "z": -13.7,
+   "rotY": 4.04,
+   "scale": 1.32,
+   "seed": 461154
+  },
+  {
+   "asset": "gen:brain",
+   "x": -8.43,
+   "z": -1.51,
+   "rotY": 4.5,
+   "scale": 1.55,
+   "seed": 93110,
+   "color": "#c9a23a"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 16.25,
+   "z": 18.16,
+   "rotY": 0.93,
+   "scale": 1.15,
+   "seed": 191749,
+   "color": "#c9a23a"
+  },
+  {
+   "asset": "coral02.glb",
+   "x": 8.09,
+   "z": 6.2,
+   "rotY": 2.55,
+   "scale": 1.86,
+   "seed": 20996
+  },
+  {
+   "asset": "gen:table",
+   "x": 15.11,
+   "z": 2.57,
+   "rotY": 0.38,
+   "scale": 1.79,
+   "seed": 769336,
+   "color": "#c9a64e"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 11.39,
+   "z": 20.93,
+   "rotY": 1.91,
+   "scale": 1.29,
+   "seed": 445300,
+   "color": "#e8a0c0"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -7.52,
+   "z": -1.97,
+   "rotY": 5.34,
+   "scale": 1.55,
+   "seed": 123988,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 4.25,
+   "z": -13.94,
+   "rotY": 2.17,
+   "scale": 1.57,
+   "seed": 694954,
+   "color": "#c48f6a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 14.58,
+   "z": -12.45,
+   "rotY": 6.24,
+   "scale": 1.29,
+   "seed": 497904,
+   "color": "#d8c6a0"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -19.46,
+   "z": 8.09,
+   "rotY": 2.87,
+   "scale": 1.28,
+   "seed": 677109,
+   "color": "#c9a23a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -20.87,
+   "z": -15.5,
+   "rotY": 0.7,
+   "scale": 1.46,
+   "seed": 924985,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:brain",
+   "x": -5.3,
+   "z": 1.57,
+   "rotY": 5.18,
+   "scale": 1.71,
+   "seed": 669820,
+   "color": "#c9a23a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -20.62,
+   "z": 12.37,
+   "rotY": 6.02,
+   "scale": 1.09,
+   "seed": 700190,
+   "color": "#c9a27e"
+  },
+  {
+   "asset": "gen:brain",
+   "x": 8.11,
+   "z": 21.3,
+   "rotY": 0.09,
+   "scale": 0.99,
+   "seed": 709565,
+   "color": "#9c8f4a"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -27.51,
+   "z": -4.08,
+   "rotY": 6.13,
+   "scale": 1.66,
+   "seed": 541640,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 7.27,
+   "z": -20.17,
+   "rotY": 3.44,
+   "scale": 1.64,
+   "seed": 134429,
+   "color": "#f2b45a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -10.01,
+   "z": 21.81,
+   "rotY": 0.12,
+   "scale": 1.23,
+   "seed": 668229,
+   "color": "#f0965a"
+  },
+  {
+   "asset": "gen:fan",
+   "x": 5.7,
+   "z": -8.2,
+   "rotY": 3.25,
+   "scale": 0.96,
+   "seed": 309254,
+   "color": "#c43a52"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 7.95,
+   "z": 12.5,
+   "rotY": 0.95,
+   "scale": 1.33,
+   "seed": 105672,
+   "color": "#b9a1d6"
+  },
+  {
+   "asset": "gen:table",
+   "x": -3.92,
+   "z": 7.28,
+   "rotY": 1.45,
+   "scale": 1.74,
+   "seed": 345808,
+   "color": "#b89a6a"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 10.85,
+   "z": -6.24,
+   "rotY": 0.52,
+   "scale": 1.68,
+   "seed": 215522,
+   "color": "#e8a0c0"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 7.93,
+   "z": -7.78,
+   "rotY": 5.75,
+   "scale": 1.17,
+   "seed": 577621,
+   "color": "#e58aa6"
+  },
+  {
+   "asset": "gen:branching",
+   "x": 24.23,
+   "z": 2.96,
+   "rotY": 3.17,
+   "scale": 1.62,
+   "seed": 121687,
+   "color": "#c9a27e"
+  },
+  {
+   "asset": "gen:soft",
+   "x": -8.28,
+   "z": -17.01,
+   "rotY": 2.28,
+   "scale": 1.12,
+   "seed": 515118,
+   "color": "#e58aa6"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 5.12,
+   "z": 22.86,
+   "rotY": 3.09,
+   "scale": 1.01,
+   "seed": 417426,
+   "color": "#a66bc4"
+  },
+  {
+   "asset": "gen:soft",
+   "x": 6.87,
+   "z": 2.54,
+   "rotY": 1.89,
+   "scale": 1.24,
+   "seed": 672025,
+   "color": "#e8a0c0"
+  },
+  {
+   "asset": "gen:rock",
+   "x": 17,
+   "z": -8.38,
+   "rotY": 3.05,
+   "scale": 1.32,
+   "seed": 181438,
+   "color": "#7a7464"
+  },
+  {
+   "asset": "gen:branching",
+   "x": -15.2,
+   "z": 8.63,
+   "rotY": 4.09,
+   "scale": 1.67,
+   "seed": 992967,
+   "color": "#c9a27e"
+  }
+ ]
+}
